@@ -1,34 +1,34 @@
 {{Nation
-| nation = swwwwwwwwwwwwwwwwww
+| nation = 
 | localized_name = 
-| full_name = swwwwwwwwwwwwwwwwww
-| flag = swwwwwwwwwwwwwwwwww_flag.png
-| flagdesc = Flag of swwwwwwwwwwwwwwwwww
+| full_name = 
+| flag = _flag.png
+| flagdesc = Flag of 
 | motto = [Unknown]
 | anthem = [Unknown]
 | anthem_MP3 = [Unknown.mp3]
-| map = swwwwwwwwwwwwwwwwww_Globe.png
-| mapdesc = Map of swwwwwwwwwwwwwwwwww
-| denonym = swwwwwwwwwwwwwwwwwwian
-| capital = Kobyeda
-| languages = Zeouli<br/>Tavan<br/>
-| currency = swwwwwwwwwwwwwwwwwwian Fund
+| map = _Globe.png
+| mapdesc = Map of 
+| denonym = ian
+| capital = Waidnisk
+| languages = Undefined<br/>
+| currency = ian Fund
 | government = [Unknown]
-| ethnicity = 65.6% Aquarian<br/>27.8% Dorvic<br/>2.1% West Dorvic<br/>4.6% Undefined<br/>
-| population = 59,760,880
-| area = 80,089
+| ethnicity = 0.7% North Kafrican<br/>99.3% Undefined<br/>
+| population = 33,402,786
+| area = 88,639
 | predecessor = 
 | successor = 
 }}
 
-Population Density: 746.19/km^2
+Population Density: 376.84/km^2
 
 Resources
-Population (59760880)
-Food (353)
-Hydrates (64)
-Common Ore (33)
-Rare Ore (15)
-Nuclear Ore (0)
+Population (33402786)
+Food (72)
+Hydrates (58)
+Common Ore (9)
+Rare Ore (2)
+Nuclear Ore (1)
 
-Claim Value: 1,239,538/750,000
+Claim Value: 738,894/750,000

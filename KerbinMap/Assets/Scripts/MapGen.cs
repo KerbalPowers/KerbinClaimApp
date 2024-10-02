@@ -650,9 +650,9 @@ public class MapGen : MonoBehaviour
                             case "Common Ore":
                                 resourceValue += r.Yield * 15; break;
                             case "Rare Ore":
-                                resourceValue += r.Yield * 35; break;
+                                resourceValue += r.Yield * 30; break;
                             case "Nuclear Ore":
-                                resourceValue += r.Yield * 60; break;
+                                resourceValue += r.Yield * 25; break;
                             case "Food":
                                 resourceValue += r.Yield * 2; break;
                             case "Hydrates":
