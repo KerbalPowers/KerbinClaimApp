@@ -845,6 +845,9 @@ MonoBehaviour:
     Population |
 
 
+    GDP |
+
+
     Resources |'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2338,6 +2341,7 @@ GameObject:
   - component: {fileID: 661798358}
   - component: {fileID: 661798359}
   - component: {fileID: 661798360}
+  - component: {fileID: 661798361}
   m_Layer: 0
   m_Name: Origin
   m_TagString: Untagged
@@ -2379,7 +2383,7 @@ MonoBehaviour:
   continentMap: {fileID: 2800000, guid: 221e1e57c1d310b4686daf4a99df0efc, type: 3}
   generateMap: 0
   balanceClaimCost: 0
-  refreshData: 1
+  refreshData: 0
   refreshResources: 0
   bodyCircumferanceKilometres: 3769.911
   zeroAlt: -1070
@@ -2600,6 +2604,31 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+  gdppcScaler: 1
+  gdppcOutputCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 80000
+      inSlope: -214933.95
+      outSlope: -214933.95
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.5929765
+    - serializedVersion: 3
+      time: 1
+      value: 313
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
   continents: []
   continentNames: []
   provinceNames: []
@@ -2634,6 +2663,7 @@ MonoBehaviour:
       Yield: 0
     - Resource: 
       Yield: 0
+    GDP: 0
     Coordinates: {x: 0, y: 0}
     Position: {x: 0, y: 0}
     Altitude: 0
@@ -2653,12 +2683,30 @@ MonoBehaviour:
     Family: 
   totalArea: 0
   totalPopulation: 0
+  totalGDP: 0
   claimValue: 0
   claimName: 
   resources: []
   claimLimit: 1000000
   UICanvas: {fileID: 1746948805}
   nameField: {fileID: 1316696809}
+--- !u!114 &661798361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 661798357}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ecbc3f5c4bd714f9ca89d5748e86f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fileName: GDPPC
+  sourceMap: {fileID: 2800000, guid: d4556f6cf39e50349b4a0dd96f946b2c, type: 3}
+  mapSource: {fileID: 661798359}
+  runConvertor: 0
+  generateHeatmap: 0
 --- !u!1 &686077885
 GameObject:
   m_ObjectHideFlags: 0
@@ -7760,18 +7808,18 @@ MonoBehaviour:
 
 
 
-    Altitude |
-
-
     Terrain |
 
 
-    Population
+    Population |
+
+
+    Sub-Culture
     |
 
 
-    Sub-Culture |
 
+    GDP |
 
 
     Resource |'
@@ -8479,8 +8527,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 128.29999, y: 89.7}
-  m_SizeDelta: {x: 250, y: 175}
+  m_AnchoredPosition: {x: 128.29999, y: 99.2}
+  m_SizeDelta: {x: 250, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2097980702
 MonoBehaviour:

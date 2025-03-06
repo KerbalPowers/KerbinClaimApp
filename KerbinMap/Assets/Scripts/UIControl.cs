@@ -146,10 +146,10 @@ public class UIControl : MonoBehaviour
         string tileData = ""
                 + t.Area.ToString("N0") + "km^2\n\n"
                 + t.Coordinates.x.ToString("N3") + "°N\n" + t.Coordinates.y.ToString("N3") + "°E\n\n"
-                + t.Altitude.ToString("N1") + "m\n\n"
                 + t.Terrain + "\n\n"
                 + t.Population.ToString("N0") + "\n\n"
                 + cd.selectedTileCulture.Dialect + "\n(" + cd.selectedTileCulture.Language  + ")" + "\n\n"
+                + t.GDP.ToString("N0") + "r\n\n"
                 + tileResources;
         inspectTileDataField.GetComponent<TextMeshProUGUI>().text = tileData;
 

@@ -44,6 +44,7 @@ public class ClickDetect : MonoBehaviour
     private HashSet<TileData> selectedTiles = new HashSet<TileData>();
     public float totalArea = 0;
     public int totalPopulation = 0;
+    public double totalGDP = 0;
     public int claimValue = 0;
     public string claimName;
     public List<ResourceDef> resources = new List<ResourceDef>();
@@ -191,7 +192,7 @@ public class ClickDetect : MonoBehaviour
                         resourcesString += r.Resource + " (" + r.Yield + ")\n";
                     }
                 }
-                UICanvas.UpdateClaimUI((float)claimValue / claimLimit, totalArea.ToString("N0") + "km^2\n\n" + totalPopulation.ToString("N0") + "\n\n" + resourcesString);
+                UICanvas.UpdateClaimUI((float)claimValue / claimLimit, $"{totalArea.ToString("N0")} km^2\n\n{totalPopulation.ToString("N0")}\n\n{totalGDP.ToString("N0")}r\n\n{resourcesString}");
                 UpdatePlaneTexture();
             }
         }
@@ -260,7 +261,7 @@ public class ClickDetect : MonoBehaviour
                 resourcesString += r.Resource + " (" + r.Yield + ")\n";
             }
         }
-        UICanvas.UpdateClaimUI((float)claimValue / claimLimit, totalArea.ToString("N0") + "km^2\n\n" + totalPopulation.ToString("N0") + "\n\n" + resourcesString);
+        UICanvas.UpdateClaimUI((float)claimValue / claimLimit, $"{totalArea.ToString("N0")} km^2\n\n{totalPopulation.ToString("N0")}\n\n{totalGDP.ToString("N0")}r\n\n{resourcesString}");
         UpdatePlaneTexture();
 
         //reset progress bar
@@ -271,62 +272,7 @@ public class ClickDetect : MonoBehaviour
         yield return null;
     }
 
-    IEnumerator TiliseMap()
-    {
-        yield return new WaitForSeconds(2.1f);
-        Color[] mapMap = new Color[width * height];
-        mapMap = Resources.Load<Texture2D>("Maps/DataLayers/Language").GetPixels();
-
-        yield return new WaitForSeconds(0.1f);
-
-        Color[] mapTiles = new Color[width * height];
-        Array.Copy(clearColours, mapTiles, clearColours.Length);
-
-        yield return new WaitForSeconds(0.1f);
-
-        int tileProgress = 0;
-
-        foreach (ContinentData c in mapSource.continents)
-        {
-            foreach (ProvinceData p in c.Provinces)
-            {
-                foreach (TileData t in p.Tiles)
-                {
-                    // Use first position as the data peg if the mean position is over water
-                    Vector2 position = t.Position;
-                    int baseX = (int)position.x;
-                    int baseY = (int)position.y;
-
-
-                    // Get altitude by converting the heightmap brightness
-                    Color sampleValue = mapMap[baseY * width + baseX];
-
-                    PaintTile(t, mapTiles, sampleValue);
-                    tileProgress++;
-                    Debug.Log("Painted " + tileProgress + "/ 6474");
-                }
-                yield return new WaitForSeconds(0.1f);
-
-            }
-        }
-
-        yield return new WaitForSeconds(1.1f);
-
-        // Initialize the hightlight Texture with the same dimensions as the map image
-        Texture2D mapTexture = new Texture2D(width, height, TextureFormat.ARGB32, false);
-
-        yield return new WaitForSeconds(0.1f);
-
-        // Set the map to the currently stored highlights array
-        mapTexture.SetPixels(0, 0, width, height, mapTiles);
-        mapTexture.Apply();
-        // Save the final texture to a file 
-        string filePath = Application.streamingAssetsPath + "/Exports/" + "Resource.png";
-        byte[] pngBytes = mapTexture.EncodeToPNG();
-        File.WriteAllBytes(filePath, pngBytes);
-
-        yield return null;
-    }
+   
 
     void GameModeLC (int x, int y)
     {
@@ -390,7 +336,7 @@ public class ClickDetect : MonoBehaviour
                         resourcesString += r.Resource + " (" + r.Yield + ")\n";
                     }
                 }
-                UICanvas.UpdateClaimUI((float)claimValue / claimLimit, totalArea.ToString("N0") + "km^2\n\n" + totalPopulation.ToString("N0") + "\n\n" + resourcesString);
+                UICanvas.UpdateClaimUI((float)claimValue / claimLimit, $"{totalArea.ToString("N0")} km^2\n\n{totalPopulation.ToString("N0")}\n\n{totalGDP.ToString("N0")}r\n\n{resourcesString}");
                 UpdatePlaneTexture();
                 break;
             case 2:
@@ -438,7 +384,8 @@ public class ClickDetect : MonoBehaviour
                         resourcesString += r.Resource + " (" + r.Yield + ")\n";
                     }
                 }
-                UICanvas.UpdateClaimUI((float)claimValue / claimLimit, totalArea.ToString("N0") + "km^2\n\n" + totalPopulation.ToString("N0") + "\n\n" + resourcesString); UpdatePlaneTexture();
+                UICanvas.UpdateClaimUI((float)claimValue / claimLimit, $"{totalArea.ToString("N0")} km^2\n\n{totalPopulation.ToString("N0")}\n\n{totalGDP.ToString("N0")}r\n\n{resourcesString}");
+                UpdatePlaneTexture();
                 break;
             case 2:
                 Debug.Log("Distance calc is a work in progress");
@@ -461,6 +408,7 @@ public class ClickDetect : MonoBehaviour
             
             totalArea += t.Area;
             totalPopulation += t.Population;
+            totalGDP += t.GDP;
             claimValue += t.ClaimValue;
             AddResource(t, false);
 
@@ -471,6 +419,7 @@ public class ClickDetect : MonoBehaviour
         {
             totalArea -= t.Area;
             totalPopulation -= t.Population;
+            totalGDP -= t.GDP;
             claimValue -= t.ClaimValue;
             AddResource(t, true);
 
@@ -516,6 +465,7 @@ public class ClickDetect : MonoBehaviour
     {
         totalArea = 0;
         totalPopulation = 0;
+        totalGDP = 0;
         claimValue = 0;
         selectedTiles.Clear();
         resources.Clear();
@@ -529,7 +479,7 @@ public class ClickDetect : MonoBehaviour
 
         string resourcesString = "Food (0)\nHydrates (0)\nCommon Ore (0)\nRare Ore (0)\nNuclear Ore (0)";
 
-        UICanvas.UpdateClaimUI(0, totalArea.ToString("N0") + "km^2\n\n" + totalPopulation + "\n\n" + resourcesString);
+        UICanvas.UpdateClaimUI(0, $"0km^2\n\n0\n\n0r\n\n0");
 
         Array.Copy(clearColours, highlightColours, clearColours.Length);
         UpdatePlaneTexture();
@@ -622,6 +572,7 @@ public class ClickDetect : MonoBehaviour
         lines.Add("");
 
         lines.Add("Population Density: " + (totalPopulation / totalArea).ToString("N2") + "/km^2");
+        lines.Add("GDP (Nominal): " + totalGDP.ToString("N0") + "r");
         lines.Add("");
 
         lines.Add("Resources");

@@ -10,25 +10,25 @@
 | map = _Globe.png
 | mapdesc = Map of 
 | denonym = ian
-| capital = Waidnisk
-| languages = Undefined<br/>
+| capital = Margen
+| languages = Namjjog<br/>
 | currency = ian Fund
 | government = [Unknown]
-| ethnicity = 0.7% North Kafrican<br/>99.3% Undefined<br/>
-| population = 33,402,786
-| area = 88,639
+| ethnicity = 81.8% Samagi<br/>16.8% Koloan<br/>1.4% Aontan<br/>
+| population = 17,682,043
+| area = 66,115
 | predecessor = 
 | successor = 
 }}
 
-Population Density: 376.84/km^2
+Population Density: 267.44/km^2
 
 Resources
-Population (33402786)
-Food (72)
-Hydrates (58)
-Common Ore (9)
-Rare Ore (2)
+Population (17682043)
+Food (456)
+Hydrates (40)
+Common Ore (20)
+Rare Ore (4)
 Nuclear Ore (1)
 
-Claim Value: 738,894/750,000
+Claim Value: 757,776/750,000

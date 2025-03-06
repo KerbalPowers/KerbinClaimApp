@@ -9,6 +9,7 @@ public class TileData
     public string Culture;
     // Resource
     public List<ResourceDef> LocalResources = new List<ResourceDef>();
+    public double GDP;
     // Positional
     public UnityEngine.Vector2 Coordinates;
     public UnityEngine.Vector2 Position;

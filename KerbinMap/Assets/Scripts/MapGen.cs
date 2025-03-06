@@ -33,6 +33,7 @@ public class MapGen : MonoBehaviour
     private Color[] biomeMap;
     private Color[] heightMap;
     private Color[] populationMap;
+    private Color[] gdpMap;
     private Color[] resourceMap;
     private Color[] foodMap;
     private Color[] hydrateMap;
@@ -59,7 +60,9 @@ public class MapGen : MonoBehaviour
     [SerializeField] private int searchIncriment = 100;
     [SerializeField] private int populationScaler = 1;
     [SerializeField] private AnimationCurve densityOutputCurve;
-    
+    [SerializeField] private int gdppcScaler = 1;
+    [SerializeField] private AnimationCurve gdppcOutputCurve;
+
     #endregion
 
 
@@ -312,8 +315,8 @@ public class MapGen : MonoBehaviour
         yield return null;
     }
 
-        #region Definitions
-        void DefineContinent(Color targetColor)
+    #region Definitions
+    void DefineContinent(Color targetColor)
     {
         string newHex = ColorUtility.ToHtmlStringRGB(targetColor);
         // Create the continent object
@@ -544,6 +547,9 @@ public class MapGen : MonoBehaviour
         populationMap = new Color[width * height];
         populationMap = Resources.Load<Texture2D>("Maps/DataLayers/Density").GetPixels();
 
+        gdpMap = new Color[width * height];
+        gdpMap = Resources.Load<Texture2D>("Maps/DataLayers/Density").GetPixels();
+
 
         yield return new WaitForSeconds(0.1f);
 
@@ -598,9 +604,14 @@ public class MapGen : MonoBehaviour
                     // Get Population of the tile by scaling the true area against the heatmap
                     float heatValue = populationMap[baseY * width + baseX].r;
                     float density = densityOutputCurve.Evaluate(heatValue);
-                    int newPopulation = (int)(density* populationScaler * t.Area); //30 is a standin heatmap value for persons per km
+                    int newPopulation = (int)(density* populationScaler * t.Area); 
                     p.Population += newPopulation;
                     t.Population = newPopulation;
+                    // Get GDP of the tile by scaling the population against the per-capita heatmap
+                    float gdppcValue = gdpMap[baseY * width + baseX].b;
+                    float gdppc = gdppcOutputCurve.Evaluate(heatValue);
+                    double newGDP = (double)(gdppc * gdppcScaler * t.Population);
+                    t.GDP = newGDP;
 
                     tileProgress++;
                     Debug.Log(t.HexCode + " Updated (#" + tileProgress + ")");
@@ -641,7 +652,9 @@ public class MapGen : MonoBehaviour
                     // Claim Value is an aggregate of local values
                     int claimValue = 0;
                     claimValue += Mathf.RoundToInt(t.Population * 0.08f);
-                    claimValue += Mathf.RoundToInt(t.Area * 12f);
+                    claimValue += Mathf.RoundToInt((float)(t.GDP * 0.01));
+                    claimValue += Mathf.RoundToInt(t.Area * 10f);
+
                     int resourceValue = 0;
                     foreach (ResourceDef r in t.LocalResources)
                     {
@@ -662,7 +675,7 @@ public class MapGen : MonoBehaviour
                         }
                     }
 
-                    t.ClaimValue = ((claimValue + (resourceValue * 900)) / 5);
+                    t.ClaimValue = ((claimValue + (resourceValue * 800)) / 5);
 
                     tileProgress++;
                     Debug.Log(t.HexCode + " Updated (#" + tileProgress + ")");
