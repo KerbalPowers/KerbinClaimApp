@@ -652,7 +652,7 @@ public class MapGen : MonoBehaviour
                     // Claim Value is an aggregate of local values
                     int claimValue = 0;
                     claimValue += Mathf.RoundToInt(t.Population * 0.08f);
-                    claimValue += Mathf.RoundToInt((float)(t.GDP * 0.01));
+                    claimValue += Mathf.RoundToInt((float)(t.GDP * 0.01f));
                     claimValue += Mathf.RoundToInt(t.Area * 10f);
 
                     int resourceValue = 0;
