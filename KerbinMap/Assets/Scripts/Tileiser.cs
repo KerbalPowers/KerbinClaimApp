@@ -115,12 +115,15 @@ public class Tileiser : MonoBehaviour
     Color GenerateHeatmapColor(Color sampleValue)
     {
         // This function generates the heatmap color based on the blue channel value
-        float blueValue = sampleValue.b;
+        float blueSample = Mathf.Clamp01(1- 2*(1 - sampleValue.b));
+
+
+        float blueValue = Mathf.Clamp01(sampleValue.b);
 
         // Scale red and green based on blue value
         // Saturate red at lower blue values, desaturate as blue increases
-        float redValue = Mathf.Clamp01(1 - blueValue);  // Decrease as blue increases
-        float greenValue = Mathf.Clamp01(1 - blueValue);  // Decrease as blue increases
+        float redValue = Mathf.Clamp01(blueSample);  // Decrease as blue increases
+        float greenValue = Mathf.Clamp01(blueSample);  // Decrease as blue increases
 
         // Ensure all values are in the range [0, 1] and scale together to form the heatmap
         return new Color(redValue, greenValue, blueValue);
