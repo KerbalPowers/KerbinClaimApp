@@ -2390,7 +2390,7 @@ MonoBehaviour:
   maxAlt: 6768
   biggestTile: {x: 750, y: 350}
   searchIncriment: 100
-  populationScaler: 1
+  populationScaler: 50
   densityOutputCurve:
     serializedVersion: 2
     m_Curve:
@@ -2604,7 +2604,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  gdppcScaler: 1
+  gdppcScaler: 100
   gdppcOutputCurve:
     serializedVersion: 2
     m_Curve:
