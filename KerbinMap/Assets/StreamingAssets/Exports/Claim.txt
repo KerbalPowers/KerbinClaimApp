@@ -10,25 +10,26 @@
 | map = _Globe.png
 | mapdesc = Map of 
 | denonym = ian
-| capital = Margen
-| languages = Namjjog<br/>
+| capital = Thuaidh
+| languages = Tekkian<br/>
 | currency = ian Fund
 | government = [Unknown]
-| ethnicity = 81.8% Samagi<br/>16.8% Koloan<br/>1.4% Aontan<br/>
-| population = 17,682,043
-| area = 66,115
+| ethnicity = 100.0% Aontan<br/>0.0% Iridian<br/>
+| population = 36,739,903
+| area = 48,813
 | predecessor = 
 | successor = 
 }}
 
-Population Density: 267.44/km^2
+Population Density: 752.67/km^2
+GDP (Nominal): 111,005,980,472r
 
 Resources
-Population (17682043)
-Food (456)
-Hydrates (40)
-Common Ore (20)
-Rare Ore (4)
-Nuclear Ore (1)
+Population (36739903)
+Food (216)
+Hydrates (13)
+Common Ore (44)
+Rare Ore (0)
+Nuclear Ore (0)
 
-Claim Value: 757,776/750,000
+Claim Value: 924,888/750,000

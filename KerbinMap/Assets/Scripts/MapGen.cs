@@ -604,13 +604,13 @@ public class MapGen : MonoBehaviour
                     // Get Population of the tile by scaling the true area against the heatmap
                     float heatValue = populationMap[baseY * width + baseX].r;
                     float density = densityOutputCurve.Evaluate(heatValue);
-                    int newPopulation = (int)(density* populationScaler * t.Area); 
+                    int newPopulation = (int)(density* ((double)populationScaler / 100) * t.Area); 
                     p.Population += newPopulation;
                     t.Population = newPopulation;
                     // Get GDP of the tile by scaling the population against the per-capita heatmap
                     float gdppcValue = gdpMap[baseY * width + baseX].b;
                     float gdppc = gdppcOutputCurve.Evaluate(heatValue);
-                    double newGDP = (double)(gdppc * gdppcScaler * t.Population);
+                    double newGDP = (double)(gdppc * ((double)gdppcScaler /100) * t.Population);
                     t.GDP = newGDP;
 
                     tileProgress++;

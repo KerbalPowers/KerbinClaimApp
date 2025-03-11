@@ -42,7 +42,7 @@
                     "HexCode": "14E767",
                     "ContinentParent": "A69658",
                     "Area": 1699.2183837890625,
-                    "Population": 684025,
+                    "Population": 342012,
                     "Tiles": [
                         {
                             "HexCode": "63ECA0",
@@ -215,7 +215,7 @@
                                     "Yield": 3
                                 }
                             ],
-                            "GDP": 2156387990.25,
+                            "GDP": 1078193995.125,
                             "Coordinates": {
                                 "x": 164.24000549316407,
                                 "y": -70.20999908447266
@@ -228,7 +228,7 @@
                             "Terrain": "Ice Sheet",
                             "Area": 141.0916748046875,
                             "ProjectedArea": 3320,
-                            "Population": 364832,
+                            "Population": 182416,
                             "ProvinceParent": "14E767",
                             "ContinentParent": "A69658",
                             "ClaimValue": 7658
@@ -296,7 +296,7 @@
                                     "Yield": 3
                                 }
                             ],
-                            "GDP": 36155860.0,
+                            "GDP": 18077930.0,
                             "Coordinates": {
                                 "x": 165.22000122070313,
                                 "y": -68.79000091552735
@@ -309,7 +309,7 @@
                             "Terrain": "Ice Sheet",
                             "Area": 152.29241943359376,
                             "ProjectedArea": 3364,
-                            "Population": 45040,
+                            "Population": 22520,
                             "ProvinceParent": "14E767",
                             "ContinentParent": "A69658",
                             "ClaimValue": 7838
@@ -323,7 +323,7 @@
                                     "Yield": 3
                                 }
                             ],
-                            "GDP": 985245911.03125,
+                            "GDP": 492621158.625,
                             "Coordinates": {
                                 "x": 167.4199981689453,
                                 "y": -68.81999969482422
@@ -336,7 +336,7 @@
                             "Terrain": "Ice Sheet",
                             "Area": 149.93931579589845,
                             "ProjectedArea": 3309,
-                            "Population": 274153,
+                            "Population": 137076,
                             "ProvinceParent": "14E767",
                             "ContinentParent": "A69658",
                             "ClaimValue": 7859
@@ -428,7 +428,7 @@
                     "HexCode": "854D2B",
                     "ContinentParent": "A69658",
                     "Area": 2069.4072265625,
-                    "Population": 2627352,
+                    "Population": 1313673,
                     "Tiles": [
                         {
                             "HexCode": "FF0278",
@@ -439,7 +439,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 695295378.9375,
+                            "GDP": 347647689.46875,
                             "Coordinates": {
                                 "x": -145.82000732421876,
                                 "y": -56.9900016784668
@@ -452,7 +452,7 @@
                             "Terrain": "Grasslands",
                             "Area": 228.43862915039063,
                             "ProjectedArea": 3347,
-                            "Population": 283308,
+                            "Population": 141654,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5441
@@ -466,7 +466,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 331704766.25,
+                            "GDP": 165852383.125,
                             "Coordinates": {
                                 "x": -143.75999450683595,
                                 "y": -56.959999084472659
@@ -479,7 +479,7 @@
                             "Terrain": "Grasslands",
                             "Area": 235.0272979736328,
                             "ProjectedArea": 3443,
-                            "Population": 199888,
+                            "Population": 99944,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4122
@@ -493,7 +493,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 220781941.015625,
+                            "GDP": 110390140.78125,
                             "Coordinates": {
                                 "x": -142.27000427246095,
                                 "y": -55.84000015258789
@@ -506,7 +506,7 @@
                             "Terrain": "Grasslands",
                             "Area": 156.43386840820313,
                             "ProjectedArea": 2223,
-                            "Population": 133045,
+                            "Population": 66522,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2864
@@ -520,7 +520,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 263476944.6328125,
+                            "GDP": 131737511.0234375,
                             "Coordinates": {
                                 "x": -144.6199951171875,
                                 "y": -55.970001220703128
@@ -533,7 +533,7 @@
                             "Terrain": "Grasslands",
                             "Area": 144.48013305664063,
                             "ProjectedArea": 2052,
-                            "Population": 137043,
+                            "Population": 68521,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2899
@@ -547,7 +547,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 15755984.0625,
+                            "GDP": 7877992.03125,
                             "Coordinates": {
                                 "x": -147.60000610351563,
                                 "y": -56.290000915527347
@@ -560,7 +560,7 @@
                             "Terrain": "Shores",
                             "Area": 5.176812648773193,
                             "ProjectedArea": 80,
-                            "Population": 6420,
+                            "Population": 3210,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 835
@@ -574,7 +574,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 242020885.5703125,
+                            "GDP": 121009481.4921875,
                             "Coordinates": {
                                 "x": -143.3699951171875,
                                 "y": -55.34000015258789
@@ -587,7 +587,7 @@
                             "Terrain": "Grasslands",
                             "Area": 132.71466064453126,
                             "ProjectedArea": 1863,
-                            "Population": 125883,
+                            "Population": 62941,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2692
@@ -601,7 +601,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 540319383.75,
+                            "GDP": 270159691.875,
                             "Coordinates": {
                                 "x": -145.5399932861328,
                                 "y": -55.25
@@ -614,7 +614,7 @@
                             "Terrain": "Grasslands",
                             "Area": 134.31475830078126,
                             "ProjectedArea": 1866,
-                            "Population": 192912,
+                            "Population": 96456,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3769
@@ -628,7 +628,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 152497627.5625,
+                            "GDP": 76248813.78125,
                             "Coordinates": {
                                 "x": -141.47000122070313,
                                 "y": -54.7400016784668
@@ -641,7 +641,7 @@
                             "Terrain": "Grasslands",
                             "Area": 123.67876434326172,
                             "ProjectedArea": 1706,
-                            "Population": 99124,
+                            "Population": 49562,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2242
@@ -655,7 +655,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1658431703.15625,
+                            "GDP": 829215851.578125,
                             "Coordinates": {
                                 "x": -147.1199951171875,
                                 "y": -54.56999969482422
@@ -668,7 +668,7 @@
                             "Terrain": "Grasslands",
                             "Area": 153.7042694091797,
                             "ProjectedArea": 2115,
-                            "Population": 346588,
+                            "Population": 173294,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 6274
@@ -682,7 +682,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1080925166.71875,
+                            "GDP": 540462583.359375,
                             "Coordinates": {
                                 "x": -144.39999389648438,
                                 "y": -54.06999969482422
@@ -695,7 +695,7 @@
                             "Terrain": "Grasslands",
                             "Area": 307.8791809082031,
                             "ProjectedArea": 4177,
-                            "Population": 412014,
+                            "Population": 206007,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 7691
@@ -709,7 +709,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 495304893.9609375,
+                            "GDP": 247650595.6640625,
                             "Coordinates": {
                                 "x": -148.3699951171875,
                                 "y": -54.54999923706055
@@ -722,7 +722,7 @@
                             "Terrain": "Grasslands",
                             "Area": 71.25177001953125,
                             "ProjectedArea": 963,
-                            "Population": 133771,
+                            "Population": 66885,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2671
@@ -736,7 +736,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1888151687.671875,
+                            "GDP": 944073822.515625,
                             "Coordinates": {
                                 "x": -146.07000732421876,
                                 "y": -53.59000015258789
@@ -749,7 +749,7 @@
                             "Terrain": "Grasslands",
                             "Area": 231.26234436035157,
                             "ProjectedArea": 3109,
-                            "Population": 467059,
+                            "Population": 233529,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 8388
@@ -763,7 +763,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 109780694.0859375,
+                            "GDP": 54889739.15625,
                             "Coordinates": {
                                 "x": -142.72000122070313,
                                 "y": -54.0
@@ -776,7 +776,7 @@
                             "Terrain": "Grasslands",
                             "Area": 145.0448760986328,
                             "ProjectedArea": 1967,
-                            "Population": 90297,
+                            "Population": 45148,
                             "ProvinceParent": "854D2B",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2153
@@ -787,7 +787,7 @@
                     "HexCode": "D28CC2",
                     "ContinentParent": "A69658",
                     "Area": 822.26611328125,
-                    "Population": 923965,
+                    "Population": 461982,
                     "Tiles": [
                         {
                             "HexCode": "812D8B",
@@ -798,7 +798,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 451138591.125,
+                            "GDP": 225569295.5625,
                             "Coordinates": {
                                 "x": -141.02000427246095,
                                 "y": -56.02000045776367
@@ -811,7 +811,7 @@
                             "Terrain": "Grasslands",
                             "Area": 159.6340789794922,
                             "ProjectedArea": 2270,
-                            "Population": 190152,
+                            "Population": 95076,
                             "ProvinceParent": "D28CC2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3785
@@ -825,7 +825,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 649346352.34375,
+                            "GDP": 324673176.171875,
                             "Coordinates": {
                                 "x": -139.30999755859376,
                                 "y": -55.779998779296878
@@ -838,7 +838,7 @@
                             "Terrain": "Grasslands",
                             "Area": 184.95339965820313,
                             "ProjectedArea": 2606,
-                            "Population": 247510,
+                            "Population": 123755,
                             "ProvinceParent": "D28CC2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4764
@@ -852,7 +852,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 437944290.0,
+                            "GDP": 218972145.0,
                             "Coordinates": {
                                 "x": -139.8699951171875,
                                 "y": -54.540000915527347
@@ -865,7 +865,7 @@
                             "Terrain": "Grasslands",
                             "Area": 290.5603942871094,
                             "ProjectedArea": 3996,
-                            "Population": 254240,
+                            "Population": 127120,
                             "ProvinceParent": "D28CC2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5125
@@ -879,7 +879,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 569529739.796875,
+                            "GDP": 284763642.796875,
                             "Coordinates": {
                                 "x": -137.69000244140626,
                                 "y": -54.66999816894531
@@ -892,7 +892,7 @@
                             "Terrain": "Grasslands",
                             "Area": 187.11825561523438,
                             "ProjectedArea": 2573,
-                            "Population": 232063,
+                            "Population": 116031,
                             "ProvinceParent": "D28CC2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4522
@@ -903,7 +903,7 @@
                     "HexCode": "17920D",
                     "ContinentParent": "A69658",
                     "Area": 2413.3359375,
-                    "Population": 1430354,
+                    "Population": 715174,
                     "Tiles": [
                         {
                             "HexCode": "55B981",
@@ -914,7 +914,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 405773297.625,
+                            "GDP": 202886648.8125,
                             "Coordinates": {
                                 "x": -136.25999450683595,
                                 "y": -54.95000076293945
@@ -927,7 +927,7 @@
                             "Terrain": "Grasslands",
                             "Area": 222.50881958007813,
                             "ProjectedArea": 3100,
-                            "Population": 211056,
+                            "Population": 105528,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4270
@@ -941,7 +941,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 302268961.09375,
+                            "GDP": 151134480.546875,
                             "Coordinates": {
                                 "x": -134.75999450683595,
                                 "y": -54.15999984741211
@@ -954,7 +954,7 @@
                             "Terrain": "Grasslands",
                             "Area": 165.75213623046876,
                             "ProjectedArea": 2242,
-                            "Population": 157220,
+                            "Population": 78610,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3273
@@ -968,7 +968,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 30007148.140625,
+                            "GDP": 15003220.6875,
                             "Coordinates": {
                                 "x": -138.74000549316407,
                                 "y": -53.31999969482422
@@ -981,7 +981,7 @@
                             "Terrain": "Highlands",
                             "Area": 201.42507934570313,
                             "ProjectedArea": 2685,
-                            "Population": 42457,
+                            "Population": 21228,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1522
@@ -995,7 +995,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 215216213.90625,
+                            "GDP": 107608106.953125,
                             "Coordinates": {
                                 "x": -134.08999633789063,
                                 "y": -52.810001373291019
@@ -1008,7 +1008,7 @@
                             "Terrain": "Grasslands",
                             "Area": 284.34820556640627,
                             "ProjectedArea": 3764,
-                            "Population": 177020,
+                            "Population": 88510,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3874
@@ -1022,7 +1022,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 163495996.1015625,
+                            "GDP": 81747390.1640625,
                             "Coordinates": {
                                 "x": -135.77999877929688,
                                 "y": -53.22999954223633
@@ -1035,7 +1035,7 @@
                             "Terrain": "Grasslands",
                             "Area": 216.0142822265625,
                             "ProjectedArea": 2856,
-                            "Population": 134479,
+                            "Population": 67239,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3030
@@ -1049,7 +1049,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 76165435.734375,
+                            "GDP": 38082717.8671875,
                             "Coordinates": {
                                 "x": -137.3000030517578,
                                 "y": -53.09000015258789
@@ -1062,7 +1062,7 @@
                             "Terrain": "Grasslands",
                             "Area": 167.4463653564453,
                             "ProjectedArea": 2223,
-                            "Population": 76882,
+                            "Population": 38441,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1992
@@ -1076,7 +1076,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 309519537.421875,
+                            "GDP": 154758938.984375,
                             "Coordinates": {
                                 "x": -132.16000366210938,
                                 "y": -52.63999938964844
@@ -1089,7 +1089,7 @@
                             "Terrain": "Grasslands",
                             "Area": 219.30860900878907,
                             "ProjectedArea": 2892,
-                            "Population": 186519,
+                            "Population": 93259,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3870
@@ -1103,7 +1103,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 26319245.109375,
+                            "GDP": 13159269.171875,
                             "Coordinates": {
                                 "x": -135.91000366210938,
                                 "y": -51.939998626708987
@@ -1116,7 +1116,7 @@
                             "Terrain": "Grasslands",
                             "Area": 176.67050170898438,
                             "ProjectedArea": 2278,
-                            "Population": 37239,
+                            "Population": 18619,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1379
@@ -1130,7 +1130,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 17838314.3984375,
+                            "GDP": 8918832.4765625,
                             "Coordinates": {
                                 "x": -137.44000244140626,
                                 "y": -51.83000183105469
@@ -1143,7 +1143,7 @@
                             "Terrain": "Grasslands",
                             "Area": 169.79945373535157,
                             "ProjectedArea": 2189,
-                            "Population": 27467,
+                            "Population": 13733,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1207
@@ -1157,7 +1157,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 357077804.53125,
+                            "GDP": 178538902.265625,
                             "Coordinates": {
                                 "x": -133.5,
                                 "y": -51.349998474121097
@@ -1170,7 +1170,7 @@
                             "Terrain": "Grasslands",
                             "Area": 253.0049591064453,
                             "ProjectedArea": 3223,
-                            "Population": 215178,
+                            "Population": 107589,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4410
@@ -1184,7 +1184,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 277315136.3125,
+                            "GDP": 138657568.15625,
                             "Coordinates": {
                                 "x": -132.1199951171875,
                                 "y": -51.2599983215332
@@ -1197,7 +1197,7 @@
                             "Terrain": "Grasslands",
                             "Area": 91.11190032958985,
                             "ProjectedArea": 1161,
-                            "Population": 112996,
+                            "Population": 56498,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2386
@@ -1211,7 +1211,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 36639436.765625,
+                            "GDP": 18319365.0,
                             "Coordinates": {
                                 "x": -135.32000732421876,
                                 "y": -50.810001373291019
@@ -1224,7 +1224,7 @@
                             "Terrain": "Grasslands",
                             "Area": 245.94566345214845,
                             "ProjectedArea": 3110,
-                            "Population": 51841,
+                            "Population": 25920,
                             "ProvinceParent": "17920D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1779
@@ -1235,7 +1235,7 @@
                     "HexCode": "BF6047",
                     "ContinentParent": "A69658",
                     "Area": 1636.7198486328125,
-                    "Population": 1408235,
+                    "Population": 704114,
                     "Tiles": [
                         {
                             "HexCode": "722933",
@@ -1250,7 +1250,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 234621752.640625,
+                            "GDP": 117310136.0625,
                             "Coordinates": {
                                 "x": -158.66000366210938,
                                 "y": -54.25
@@ -1263,7 +1263,7 @@
                             "Terrain": "Grasslands",
                             "Area": 203.96641540527345,
                             "ProjectedArea": 2784,
-                            "Population": 158473,
+                            "Population": 79236,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 6445
@@ -1285,7 +1285,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 269313915.5390625,
+                            "GDP": 134655996.4765625,
                             "Coordinates": {
                                 "x": -160.22000122070313,
                                 "y": -54.0
@@ -1298,7 +1298,7 @@
                             "Terrain": "Grasslands",
                             "Area": 147.6803436279297,
                             "ProjectedArea": 2008,
-                            "Population": 140079,
+                            "Population": 70039,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 9615
@@ -1312,7 +1312,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 171608046.609375,
+                            "GDP": 85803283.046875,
                             "Coordinates": {
                                 "x": -156.5399932861328,
                                 "y": -53.97999954223633
@@ -1325,7 +1325,7 @@
                             "Terrain": "Grasslands",
                             "Area": 149.1863250732422,
                             "ProjectedArea": 2025,
-                            "Population": 115911,
+                            "Population": 57955,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2932
@@ -1347,7 +1347,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 515509685.0625,
+                            "GDP": 257754842.53125,
                             "Coordinates": {
                                 "x": -161.60000610351563,
                                 "y": -53.439998626708987
@@ -1360,7 +1360,7 @@
                             "Terrain": "Grasslands",
                             "Area": 182.41204833984376,
                             "ProjectedArea": 2442,
-                            "Population": 217284,
+                            "Population": 108642,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 10934
@@ -1378,7 +1378,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 162863116.6875,
+                            "GDP": 81430697.0625,
                             "Coordinates": {
                                 "x": -155.57000732421876,
                                 "y": -53.15999984741211
@@ -1391,7 +1391,7 @@
                             "Terrain": "Grasslands",
                             "Area": 108.05419921875,
                             "ProjectedArea": 1420,
-                            "Population": 94547,
+                            "Population": 47273,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 6092
@@ -1409,7 +1409,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 208455583.8515625,
+                            "GDP": 104227159.1953125,
                             "Coordinates": {
                                 "x": -157.69000244140626,
                                 "y": -52.779998779296878
@@ -1422,7 +1422,7 @@
                             "Terrain": "Grasslands",
                             "Area": 251.40484619140626,
                             "ProjectedArea": 3315,
-                            "Population": 164727,
+                            "Population": 82363,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 9359
@@ -1440,7 +1440,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 205565441.0625,
+                            "GDP": 102781859.25,
                             "Coordinates": {
                                 "x": -159.05999755859376,
                                 "y": -53.130001068115237
@@ -1453,7 +1453,7 @@
                             "Terrain": "Grasslands",
                             "Area": 136.38548278808595,
                             "ProjectedArea": 1805,
-                            "Population": 119337,
+                            "Population": 59668,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5656
@@ -1471,7 +1471,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 266993742.375,
+                            "GDP": 133496871.1875,
                             "Coordinates": {
                                 "x": -154.3699951171875,
                                 "y": -52.349998474121097
@@ -1484,7 +1484,7 @@
                             "Terrain": "Grasslands",
                             "Area": 177.14111328125,
                             "ProjectedArea": 2324,
-                            "Population": 154998,
+                            "Population": 77499,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 7585
@@ -1502,7 +1502,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 201241976.375,
+                            "GDP": 100620988.1875,
                             "Coordinates": {
                                 "x": -156.32000732421876,
                                 "y": -52.25
@@ -1515,7 +1515,7 @@
                             "Terrain": "Grasslands",
                             "Area": 163.21078491210938,
                             "ProjectedArea": 2128,
-                            "Population": 130808,
+                            "Population": 65404,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 8604
@@ -1533,7 +1533,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 13901045.8125,
+                            "GDP": 6950522.90625,
                             "Coordinates": {
                                 "x": -152.72999572753907,
                                 "y": -52.4900016784668
@@ -1546,7 +1546,7 @@
                             "Terrain": "Shores",
                             "Area": 5.741555690765381,
                             "ProjectedArea": 75,
-                            "Population": 6276,
+                            "Population": 3138,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4794
@@ -1568,7 +1568,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 203399979.2578125,
+                            "GDP": 101699028.3359375,
                             "Coordinates": {
                                 "x": -155.5500030517578,
                                 "y": -51.45000076293945
@@ -1581,7 +1581,7 @@
                             "Terrain": "Grasslands",
                             "Area": 111.53678131103516,
                             "ProjectedArea": 1416,
-                            "Population": 105795,
+                            "Population": 52897,
                             "ProvinceParent": "BF6047",
                             "ContinentParent": "A69658",
                             "ClaimValue": 12040
@@ -1592,7 +1592,7 @@
                     "HexCode": "531EF7",
                     "ContinentParent": "A69658",
                     "Area": 3740.48193359375,
-                    "Population": 4380260,
+                    "Population": 2190126,
                     "Tiles": [
                         {
                             "HexCode": "046919",
@@ -1603,7 +1603,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 119675057.4296875,
+                            "GDP": 59836944.8828125,
                             "Coordinates": {
                                 "x": -142.02999877929688,
                                 "y": -53.22999954223633
@@ -1616,7 +1616,7 @@
                             "Terrain": "Grasslands",
                             "Area": 173.75265502929688,
                             "ProjectedArea": 2312,
-                            "Population": 102491,
+                            "Population": 51245,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2416
@@ -1630,7 +1630,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 158508061.15625,
+                            "GDP": 79254030.578125,
                             "Coordinates": {
                                 "x": -140.6199951171875,
                                 "y": -52.95000076293945
@@ -1643,7 +1643,7 @@
                             "Terrain": "Grasslands",
                             "Area": 230.1328582763672,
                             "ProjectedArea": 3046,
-                            "Population": 135748,
+                            "Population": 67874,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3084
@@ -1657,7 +1657,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1614978075.2578126,
+                            "GDP": 807487682.046875,
                             "Coordinates": {
                                 "x": -144.0500030517578,
                                 "y": -52.34000015258789
@@ -1670,7 +1670,7 @@
                             "Terrain": "Grasslands",
                             "Area": 429.3930969238281,
                             "ProjectedArea": 5599,
-                            "Population": 595677,
+                            "Population": 297838,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 10921
@@ -1684,7 +1684,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 17329450.78125,
+                            "GDP": 8664725.390625,
                             "Coordinates": {
                                 "x": -139.10000610351563,
                                 "y": -52.11000061035156
@@ -1697,7 +1697,7 @@
                             "Terrain": "Grasslands",
                             "Area": 137.32672119140626,
                             "ProjectedArea": 1780,
-                            "Population": 25580,
+                            "Population": 12790,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1098
@@ -1711,7 +1711,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 826959262.34375,
+                            "GDP": 413479631.171875,
                             "Coordinates": {
                                 "x": -141.47000122070313,
                                 "y": -51.65999984741211
@@ -1724,7 +1724,7 @@
                             "Terrain": "Grasslands",
                             "Area": 219.87335205078126,
                             "ProjectedArea": 2812,
-                            "Population": 305020,
+                            "Population": 152510,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5768
@@ -1738,7 +1738,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 532466838.53125,
+                            "GDP": 266233419.265625,
                             "Coordinates": {
                                 "x": -139.80999755859376,
                                 "y": -51.06999969482422
@@ -1751,7 +1751,7 @@
                             "Terrain": "Grasslands",
                             "Area": 310.7969970703125,
                             "ProjectedArea": 3954,
-                            "Population": 287182,
+                            "Population": 143591,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5701
@@ -1765,7 +1765,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 35825949.53125,
+                            "GDP": 17912974.765625,
                             "Coordinates": {
                                 "x": -137.5,
                                 "y": -50.599998474121097
@@ -1778,7 +1778,7 @@
                             "Terrain": "Grasslands",
                             "Area": 240.48648071289063,
                             "ProjectedArea": 3025,
-                            "Population": 50690,
+                            "Population": 25345,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1748
@@ -1792,7 +1792,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1705897058.8515626,
+                            "GDP": 852946265.359375,
                             "Coordinates": {
                                 "x": -141.97000122070313,
                                 "y": -50.59000015258789
@@ -1805,7 +1805,7 @@
                             "Terrain": "Grasslands",
                             "Area": 173.0937957763672,
                             "ProjectedArea": 2176,
-                            "Population": 376733,
+                            "Population": 188366,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 6803
@@ -1819,7 +1819,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 598502654.140625,
+                            "GDP": 299250140.8125,
                             "Coordinates": {
                                 "x": -138.6699981689453,
                                 "y": -49.88999938964844
@@ -1832,7 +1832,7 @@
                             "Terrain": "Grasslands",
                             "Area": 211.77870178222657,
                             "ProjectedArea": 2613,
-                            "Population": 252265,
+                            "Population": 126132,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4904
@@ -1846,7 +1846,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 3091450101.1875,
+                            "GDP": 1545725050.59375,
                             "Coordinates": {
                                 "x": -140.69000244140626,
                                 "y": -49.66999816894531
@@ -1859,7 +1859,7 @@
                             "Terrain": "Grasslands",
                             "Area": 202.27218627929688,
                             "ProjectedArea": 2491,
-                            "Population": 523032,
+                            "Population": 261516,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 9214
@@ -1873,7 +1873,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 140992957.21875,
+                            "GDP": 70496478.609375,
                             "Coordinates": {
                                 "x": -134.86000061035157,
                                 "y": -49.630001068115237
@@ -1886,7 +1886,7 @@
                             "Terrain": "Grasslands",
                             "Area": 225.7090301513672,
                             "ProjectedArea": 2778,
-                            "Population": 125762,
+                            "Population": 62881,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2914
@@ -1900,7 +1900,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 152414022.4140625,
+                            "GDP": 76206427.375,
                             "Coordinates": {
                                 "x": -136.77999877929688,
                                 "y": -49.38999938964844
@@ -1913,7 +1913,7 @@
                             "Terrain": "Grasslands",
                             "Area": 221.28521728515626,
                             "ProjectedArea": 2696,
-                            "Population": 130529,
+                            "Population": 65264,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2979
@@ -1927,7 +1927,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 2604660664.125,
+                            "GDP": 1302330332.0625,
                             "Coordinates": {
                                 "x": -139.6999969482422,
                                 "y": -48.5
@@ -1940,7 +1940,7 @@
                             "Terrain": "Grasslands",
                             "Area": 211.5904541015625,
                             "ProjectedArea": 2546,
-                            "Population": 502008,
+                            "Population": 251004,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 9260
@@ -1954,7 +1954,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 154626182.734375,
+                            "GDP": 77312261.640625,
                             "Coordinates": {
                                 "x": -134.50999450683595,
                                 "y": -48.650001525878909
@@ -1967,7 +1967,7 @@
                             "Terrain": "Grasslands",
                             "Area": 109.5601806640625,
                             "ProjectedArea": 1322,
-                            "Population": 93179,
+                            "Population": 46589,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2113
@@ -1981,7 +1981,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 575080117.015625,
+                            "GDP": 287540058.5078125,
                             "Coordinates": {
                                 "x": -136.0800018310547,
                                 "y": -48.11000061035156
@@ -1994,7 +1994,7 @@
                             "Terrain": "Grasslands",
                             "Area": 279.17138671875,
                             "ProjectedArea": 3333,
-                            "Population": 278486,
+                            "Population": 139243,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5485
@@ -2008,7 +2008,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1883906850.40625,
+                            "GDP": 941951628.3125,
                             "Coordinates": {
                                 "x": -138.1999969482422,
                                 "y": -48.25
@@ -2021,7 +2021,7 @@
                             "Terrain": "Grasslands",
                             "Area": 286.7012939453125,
                             "ProjectedArea": 3435,
-                            "Population": 524213,
+                            "Population": 262106,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 9435
@@ -2035,7 +2035,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 132874748.359375,
+                            "GDP": 66436447.125,
                             "Coordinates": {
                                 "x": -134.85000610351563,
                                 "y": -47.54999923706055
@@ -2048,7 +2048,7 @@
                             "Terrain": "Grasslands",
                             "Area": 77.55806732177735,
                             "ProjectedArea": 920,
-                            "Population": 71665,
+                            "Population": 35832,
                             "ProvinceParent": "531EF7",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1692
@@ -2059,7 +2059,7 @@
                     "HexCode": "E67D42",
                     "ContinentParent": "A69658",
                     "Area": 1936.22216796875,
-                    "Population": 1843871,
+                    "Population": 921934,
                     "Tiles": [
                         {
                             "HexCode": "1E9665",
@@ -2074,7 +2074,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 367704942.34375,
+                            "GDP": 183852471.171875,
                             "Coordinates": {
                                 "x": -159.86000061035157,
                                 "y": -52.099998474121097
@@ -2087,7 +2087,7 @@
                             "Terrain": "Grasslands",
                             "Area": 260.53485107421877,
                             "ProjectedArea": 3382,
-                            "Population": 221582,
+                            "Population": 110791,
                             "ProvinceParent": "E67D42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 7590
@@ -2105,7 +2105,7 @@
                                     "Yield": 3
                                 }
                             ],
-                            "GDP": 607332755.859375,
+                            "GDP": 303666377.9296875,
                             "Coordinates": {
                                 "x": -161.52000427246095,
                                 "y": -51.369998931884769
@@ -2118,7 +2118,7 @@
                             "Terrain": "Grasslands",
                             "Area": 231.92120361328126,
                             "ProjectedArea": 2956,
-                            "Population": 264890,
+                            "Population": 132445,
                             "ProvinceParent": "E67D42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 11274
@@ -2136,7 +2136,7 @@
                                     "Yield": 3
                                 }
                             ],
-                            "GDP": 307962573.75,
+                            "GDP": 153981286.875,
                             "Coordinates": {
                                 "x": -157.5800018310547,
                                 "y": -51.0
@@ -2149,7 +2149,7 @@
                             "Terrain": "Grasslands",
                             "Area": 371.41278076171877,
                             "ProjectedArea": 4707,
-                            "Population": 243360,
+                            "Population": 121680,
                             "ProvinceParent": "E67D42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 11265
@@ -2167,7 +2167,7 @@
                                     "Yield": 3
                                 }
                             ],
-                            "GDP": 586479131.8125,
+                            "GDP": 293238704.625,
                             "Coordinates": {
                                 "x": -159.75,
                                 "y": -50.470001220703128
@@ -2180,7 +2180,7 @@
                             "Terrain": "Grasslands",
                             "Area": 389.1080627441406,
                             "ProjectedArea": 4881,
-                            "Population": 340469,
+                            "Population": 170234,
                             "ProvinceParent": "E67D42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 12861
@@ -2202,7 +2202,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 652035140.453125,
+                            "GDP": 326016343.125,
                             "Coordinates": {
                                 "x": -163.1999969482422,
                                 "y": -49.4900016784668
@@ -2215,7 +2215,7 @@
                             "Terrain": "Grasslands",
                             "Area": 214.22592163085938,
                             "ProjectedArea": 2613,
-                            "Population": 265681,
+                            "Population": 132840,
                             "ProvinceParent": "E67D42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 17545
@@ -2233,7 +2233,7 @@
                                     "Yield": 3
                                 }
                             ],
-                            "GDP": 733897375.828125,
+                            "GDP": 366947501.65625,
                             "Coordinates": {
                                 "x": -161.5500030517578,
                                 "y": -49.43000030517578
@@ -2246,7 +2246,7 @@
                             "Terrain": "Grasslands",
                             "Area": 259.687744140625,
                             "ProjectedArea": 3177,
-                            "Population": 309333,
+                            "Population": 154666,
                             "ProvinceParent": "E67D42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 14752
@@ -2268,7 +2268,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 381740973.40625,
+                            "GDP": 190870486.703125,
                             "Coordinates": {
                                 "x": -162.49000549316407,
                                 "y": -48.02000045776367
@@ -2281,7 +2281,7 @@
                             "Terrain": "Grasslands",
                             "Area": 209.33148193359376,
                             "ProjectedArea": 2518,
-                            "Population": 198556,
+                            "Population": 99278,
                             "ProvinceParent": "E67D42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 16459
@@ -2292,7 +2292,7 @@
                     "HexCode": "AC2D39",
                     "ContinentParent": "A69658",
                     "Area": 1655.4505615234375,
-                    "Population": 1625589,
+                    "Population": 812792,
                     "Tiles": [
                         {
                             "HexCode": "AC6698",
@@ -2303,7 +2303,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 319615650.234375,
+                            "GDP": 159806995.390625,
                             "Coordinates": {
                                 "x": -130.8800048828125,
                                 "y": -51.81999969482422
@@ -2316,7 +2316,7 @@
                             "Terrain": "Grasslands",
                             "Area": 226.46202087402345,
                             "ProjectedArea": 2931,
-                            "Population": 192603,
+                            "Population": 96301,
                             "ProvinceParent": "AC2D39",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3985
@@ -2330,7 +2330,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 240992302.09375,
+                            "GDP": 120496151.046875,
                             "Coordinates": {
                                 "x": -129.39999389648438,
                                 "y": -51.7400016784668
@@ -2343,7 +2343,7 @@
                             "Terrain": "Grasslands",
                             "Area": 132.14991760253907,
                             "ProjectedArea": 1697,
-                            "Population": 125348,
+                            "Population": 62674,
                             "ProvinceParent": "AC2D39",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2682
@@ -2357,7 +2357,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 452968190.859375,
+                            "GDP": 226483168.375,
                             "Coordinates": {
                                 "x": -127.83000183105469,
                                 "y": -51.13999938964844
@@ -2370,7 +2370,7 @@
                             "Terrain": "Grasslands",
                             "Area": 264.3939514160156,
                             "ProjectedArea": 3370,
-                            "Population": 244305,
+                            "Population": 122152,
                             "ProvinceParent": "AC2D39",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4903
@@ -2384,7 +2384,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 119398677.75,
+                            "GDP": 59699338.875,
                             "Coordinates": {
                                 "x": -129.7899932861328,
                                 "y": -50.72999954223633
@@ -2397,7 +2397,7 @@
                             "Terrain": "Grasslands",
                             "Area": 157.75160217285157,
                             "ProjectedArea": 1988,
-                            "Population": 98208,
+                            "Population": 49104,
                             "ProvinceParent": "AC2D39",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2310
@@ -2411,7 +2411,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 388573926.1875,
+                            "GDP": 194286101.8125,
                             "Coordinates": {
                                 "x": -128.50999450683595,
                                 "y": -49.83000183105469
@@ -2424,7 +2424,7 @@
                             "Terrain": "Grasslands",
                             "Area": 257.8052673339844,
                             "ProjectedArea": 3173,
-                            "Population": 225579,
+                            "Population": 112789,
                             "ProvinceParent": "AC2D39",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4588
@@ -2438,7 +2438,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 348936146.109375,
+                            "GDP": 174466845.953125,
                             "Coordinates": {
                                 "x": -126.63999938964844,
                                 "y": -49.970001220703128
@@ -2451,7 +2451,7 @@
                             "Terrain": "Grasslands",
                             "Area": 114.64286804199219,
                             "ProjectedArea": 1427,
-                            "Population": 142179,
+                            "Population": 71089,
                             "ProvinceParent": "AC2D39",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2910
@@ -2465,7 +2465,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 317030575.921875,
+                            "GDP": 158515287.9609375,
                             "Coordinates": {
                                 "x": -127.19999694824219,
                                 "y": -49.119998931884769
@@ -2478,7 +2478,7 @@
                             "Terrain": "Grasslands",
                             "Area": 173.84678649902345,
                             "ProjectedArea": 2109,
-                            "Population": 164898,
+                            "Population": 82449,
                             "ProvinceParent": "AC2D39",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3415
@@ -2492,7 +2492,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 478140123.828125,
+                            "GDP": 239068834.8125,
                             "Coordinates": {
                                 "x": -128.58999633789063,
                                 "y": -48.41999816894531
@@ -2505,7 +2505,7 @@
                             "Terrain": "Grasslands",
                             "Area": 157.0927276611328,
                             "ProjectedArea": 1897,
-                            "Population": 194825,
+                            "Population": 97412,
                             "ProvinceParent": "AC2D39",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3854
@@ -2519,7 +2519,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 644291872.46875,
+                            "GDP": 322145936.234375,
                             "Coordinates": {
                                 "x": -127.22000122070313,
                                 "y": -48.02000045776367
@@ -2532,7 +2532,7 @@
                             "Terrain": "Grasslands",
                             "Area": 171.30543518066407,
                             "ProjectedArea": 2049,
-                            "Population": 237644,
+                            "Population": 118822,
                             "ProvinceParent": "AC2D39",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4573
@@ -2543,7 +2543,7 @@
                     "HexCode": "FCBB48",
                     "ContinentParent": "A69658",
                     "Area": 155.39849853515626,
-                    "Population": 135973,
+                    "Population": 67986,
                     "Tiles": [
                         {
                             "HexCode": "44439A",
@@ -2558,7 +2558,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 234221990.8125,
+                            "GDP": 117110134.125,
                             "Coordinates": {
                                 "x": 170.9600067138672,
                                 "y": -51.18000030517578
@@ -2571,7 +2571,7 @@
                             "Terrain": "Grasslands",
                             "Area": 155.39849853515626,
                             "ProjectedArea": 1978,
-                            "Population": 135973,
+                            "Population": 67986,
                             "ProvinceParent": "FCBB48",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5608
@@ -2582,7 +2582,7 @@
                     "HexCode": "56C9E2",
                     "ContinentParent": "A69658",
                     "Area": 1703.265625,
-                    "Population": 1602400,
+                    "Population": 801197,
                     "Tiles": [
                         {
                             "HexCode": "865C2C",
@@ -2593,7 +2593,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 275842901.65625,
+                            "GDP": 137921450.828125,
                             "Coordinates": {
                                 "x": -124.30999755859375,
                                 "y": -51.56999969482422
@@ -2606,7 +2606,7 @@
                             "Terrain": "Grasslands",
                             "Area": 97.60645294189453,
                             "ProjectedArea": 1245,
-                            "Population": 116266,
+                            "Population": 58133,
                             "ProvinceParent": "56C9E2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2454
@@ -2620,7 +2620,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 395720709.796875,
+                            "GDP": 197859427.84375,
                             "Coordinates": {
                                 "x": -124.13999938964844,
                                 "y": -50.40999984741211
@@ -2633,7 +2633,7 @@
                             "Terrain": "Grasslands",
                             "Area": 230.97996520996095,
                             "ProjectedArea": 2881,
-                            "Population": 213429,
+                            "Population": 106714,
                             "ProvinceParent": "56C9E2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4329
@@ -2647,7 +2647,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 338797697.875,
+                            "GDP": 169398848.9375,
                             "Coordinates": {
                                 "x": -125.61000061035156,
                                 "y": -50.470001220703128
@@ -2660,7 +2660,7 @@
                             "Terrain": "Grasslands",
                             "Area": 197.75424194335938,
                             "ProjectedArea": 2472,
-                            "Population": 182728,
+                            "Population": 91364,
                             "ProvinceParent": "56C9E2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3758
@@ -2674,7 +2674,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 245969877.0859375,
+                            "GDP": 122983977.25,
                             "Coordinates": {
                                 "x": -121.5,
                                 "y": -49.61000061035156
@@ -2687,7 +2687,7 @@
                             "Terrain": "Grasslands",
                             "Area": 134.87950134277345,
                             "ProjectedArea": 1657,
-                            "Population": 127937,
+                            "Population": 63968,
                             "ProvinceParent": "56C9E2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2730
@@ -2701,7 +2701,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 182865512.4375,
+                            "GDP": 91431894.9375,
                             "Coordinates": {
                                 "x": -123.0,
                                 "y": -49.70000076293945
@@ -2714,7 +2714,7 @@
                             "Terrain": "Grasslands",
                             "Area": 121.32566833496094,
                             "ProjectedArea": 1495,
-                            "Population": 106159,
+                            "Population": 53079,
                             "ProvinceParent": "56C9E2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2349
@@ -2728,7 +2728,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 827509826.2890625,
+                            "GDP": 413753951.8515625,
                             "Coordinates": {
                                 "x": -124.80999755859375,
                                 "y": -48.630001068115237
@@ -2741,7 +2741,7 @@
                             "Terrain": "Grasslands",
                             "Area": 453.77117919921877,
                             "ProjectedArea": 5456,
-                            "Population": 430415,
+                            "Population": 215207,
                             "ProvinceParent": "56C9E2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 8335
@@ -2755,7 +2755,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 418818043.2109375,
+                            "GDP": 209408060.3125,
                             "Coordinates": {
                                 "x": -120.66999816894531,
                                 "y": -48.52000045776367
@@ -2768,7 +2768,7 @@
                             "Terrain": "Grasslands",
                             "Area": 229.6622314453125,
                             "ProjectedArea": 2777,
-                            "Population": 217841,
+                            "Population": 108920,
                             "ProvinceParent": "56C9E2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4396
@@ -2782,7 +2782,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 357647039.0625,
+                            "GDP": 178822658.25,
                             "Coordinates": {
                                 "x": -122.62999725341797,
                                 "y": -48.599998474121097
@@ -2795,7 +2795,7 @@
                             "Terrain": "Grasslands",
                             "Area": 237.28627014160157,
                             "ProjectedArea": 2886,
-                            "Population": 207625,
+                            "Population": 103812,
                             "ProvinceParent": "56C9E2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4251
@@ -2806,7 +2806,7 @@
                     "HexCode": "3DD166",
                     "ContinentParent": "A69658",
                     "Area": 1526.971435546875,
-                    "Population": 2149566,
+                    "Population": 1074781,
                     "Tiles": [
                         {
                             "HexCode": "B1BD84",
@@ -2817,7 +2817,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 394270796.265625,
+                            "GDP": 197134471.078125,
                             "Coordinates": {
                                 "x": -131.11000061035157,
                                 "y": -50.15999984741211
@@ -2830,7 +2830,7 @@
                             "Terrain": "Grasslands",
                             "Area": 230.1328582763672,
                             "ProjectedArea": 2864,
-                            "Population": 212647,
+                            "Population": 106323,
                             "ProvinceParent": "3DD166",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4314
@@ -2844,7 +2844,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 199181624.4375,
+                            "GDP": 99589950.9375,
                             "Coordinates": {
                                 "x": -133.1300048828125,
                                 "y": -50.119998931884769
@@ -2857,7 +2857,7 @@
                             "Terrain": "Grasslands",
                             "Area": 132.14991760253907,
                             "ProjectedArea": 1636,
-                            "Population": 115631,
+                            "Population": 57815,
                             "ProvinceParent": "3DD166",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2527
@@ -2871,7 +2871,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 655266664.59375,
+                            "GDP": 327633332.296875,
                             "Coordinates": {
                                 "x": -132.0500030517578,
                                 "y": -49.349998474121097
@@ -2884,7 +2884,7 @@
                             "Terrain": "Grasslands",
                             "Area": 174.22328186035157,
                             "ProjectedArea": 2118,
-                            "Population": 241692,
+                            "Population": 120846,
                             "ProvinceParent": "3DD166",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4645
@@ -2898,7 +2898,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 929975363.2265625,
+                            "GDP": 464986326.03125,
                             "Coordinates": {
                                 "x": -130.16000366210938,
                                 "y": -48.83000183105469
@@ -2911,7 +2911,7 @@
                             "Terrain": "Grasslands",
                             "Area": 247.26339721679688,
                             "ProjectedArea": 2983,
-                            "Population": 343017,
+                            "Population": 171508,
                             "ProvinceParent": "3DD166",
                             "ContinentParent": "A69658",
                             "ClaimValue": 6441
@@ -2925,7 +2925,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 301665739.71875,
+                            "GDP": 150832869.859375,
                             "Coordinates": {
                                 "x": -133.2100067138672,
                                 "y": -49.060001373291019
@@ -2938,7 +2938,7 @@
                             "Terrain": "Grasslands",
                             "Area": 99.11243438720703,
                             "ProjectedArea": 1207,
-                            "Population": 122918,
+                            "Population": 61459,
                             "ProvinceParent": "3DD166",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2564
@@ -2952,7 +2952,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1109895123.1953126,
+                            "GDP": 554945598.078125,
                             "Coordinates": {
                                 "x": -132.41000366210938,
                                 "y": -48.15999984741211
@@ -2965,7 +2965,7 @@
                             "Terrain": "Grasslands",
                             "Area": 143.0682830810547,
                             "ProjectedArea": 1712,
-                            "Population": 282629,
+                            "Population": 141314,
                             "ProvinceParent": "3DD166",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5225
@@ -2979,7 +2979,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 529075729.40625,
+                            "GDP": 264537864.703125,
                             "Coordinates": {
                                 "x": -133.7100067138672,
                                 "y": -47.81999969482422
@@ -2992,7 +2992,7 @@
                             "Terrain": "Grasslands",
                             "Area": 187.21237182617188,
                             "ProjectedArea": 2218,
-                            "Population": 223002,
+                            "Population": 111501,
                             "ProvinceParent": "3DD166",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4377
@@ -3006,7 +3006,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1493248749.4375,
+                            "GDP": 746624374.71875,
                             "Coordinates": {
                                 "x": -130.9199981689453,
                                 "y": -47.849998474121097
@@ -3019,7 +3019,7 @@
                             "Terrain": "Grasslands",
                             "Area": 192.48330688476563,
                             "ProjectedArea": 2282,
-                            "Population": 380248,
+                            "Population": 190124,
                             "ProvinceParent": "3DD166",
                             "ContinentParent": "A69658",
                             "ClaimValue": 6906
@@ -3033,7 +3033,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 843393107.296875,
+                            "GDP": 421696553.6484375,
                             "Coordinates": {
                                 "x": -129.3000030517578,
                                 "y": -47.279998779296878
@@ -3046,7 +3046,7 @@
                             "Terrain": "Shores",
                             "Area": 121.32566833496094,
                             "ProjectedArea": 1423,
-                            "Population": 227782,
+                            "Population": 113891,
                             "ProvinceParent": "3DD166",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4295
@@ -3057,7 +3057,7 @@
                     "HexCode": "1BD67D",
                     "ContinentParent": "A69658",
                     "Area": 2418.88916015625,
-                    "Population": 3090338,
+                    "Population": 1545168,
                     "Tiles": [
                         {
                             "HexCode": "584E38",
@@ -3068,7 +3068,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 631753460.625,
+                            "GDP": 315876730.3125,
                             "Coordinates": {
                                 "x": -125.9800033569336,
                                 "y": -47.119998931884769
@@ -3081,7 +3081,7 @@
                             "Terrain": "Grasslands",
                             "Area": 223.544189453125,
                             "ProjectedArea": 2628,
-                            "Population": 266280,
+                            "Population": 133140,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5157
@@ -3095,7 +3095,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 344494716.0390625,
+                            "GDP": 172246396.7265625,
                             "Coordinates": {
                                 "x": -121.70999908447266,
                                 "y": -47.27000045776367
@@ -3108,7 +3108,7 @@
                             "Terrain": "Grasslands",
                             "Area": 188.90660095214845,
                             "ProjectedArea": 2228,
-                            "Population": 179183,
+                            "Population": 89591,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 3680
@@ -3122,7 +3122,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 370840145.25,
+                            "GDP": 185420072.625,
                             "Coordinates": {
                                 "x": -123.41999816894531,
                                 "y": -46.9900016784668
@@ -3135,7 +3135,7 @@
                             "Terrain": "Grasslands",
                             "Area": 246.039794921875,
                             "ProjectedArea": 2882,
-                            "Population": 215284,
+                            "Population": 107642,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4395
@@ -3149,7 +3149,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 217133010.609375,
+                            "GDP": 108566505.3046875,
                             "Coordinates": {
                                 "x": -124.8499984741211,
                                 "y": -47.0
@@ -3162,7 +3162,7 @@
                             "Terrain": "Grasslands",
                             "Area": 119.06669616699219,
                             "ProjectedArea": 1393,
-                            "Population": 112938,
+                            "Population": 56469,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2452
@@ -3176,7 +3176,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 2167222901.5,
+                            "GDP": 1083611450.75,
                             "Coordinates": {
                                 "x": -127.69999694824219,
                                 "y": -46.060001373291019
@@ -3189,7 +3189,7 @@
                             "Terrain": "Grasslands",
                             "Area": 279.3596496582031,
                             "ProjectedArea": 3209,
-                            "Population": 551872,
+                            "Population": 275936,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 9860
@@ -3203,7 +3203,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 360484099.5,
+                            "GDP": 180242049.75,
                             "Coordinates": {
                                 "x": -122.4000015258789,
                                 "y": -45.66999816894531
@@ -3216,7 +3216,7 @@
                             "Terrain": "Grasslands",
                             "Area": 239.1687469482422,
                             "ProjectedArea": 2722,
-                            "Population": 209272,
+                            "Population": 104636,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 4282
@@ -3230,7 +3230,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1489957506.359375,
+                            "GDP": 744978753.1796875,
                             "Coordinates": {
                                 "x": -125.87000274658203,
                                 "y": -45.63999938964844
@@ -3243,7 +3243,7 @@
                             "Terrain": "Grasslands",
                             "Area": 270.135498046875,
                             "ProjectedArea": 3074,
-                            "Population": 454198,
+                            "Population": 227099,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 8275
@@ -3257,7 +3257,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 519888560.53125,
+                            "GDP": 259944280.265625,
                             "Coordinates": {
                                 "x": -124.12999725341797,
                                 "y": -45.459999084472659
@@ -3270,7 +3270,7 @@
                             "Terrain": "Grasslands",
                             "Area": 303.4553527832031,
                             "ProjectedArea": 3443,
-                            "Population": 280398,
+                            "Population": 140199,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5574
@@ -3284,7 +3284,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 1029757590.5625,
+                            "GDP": 514878795.28125,
                             "Coordinates": {
                                 "x": -127.91000366210938,
                                 "y": -44.959999084472659
@@ -3297,7 +3297,7 @@
                             "Terrain": "Grasslands",
                             "Area": 126.12598419189453,
                             "ProjectedArea": 1401,
-                            "Population": 254724,
+                            "Population": 127362,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5098
@@ -3311,7 +3311,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 1485405688.203125,
+                            "GDP": 742701532.34375,
                             "Coordinates": {
                                 "x": -125.55999755859375,
                                 "y": -44.060001373291019
@@ -3324,7 +3324,7 @@
                             "Terrain": "Grasslands",
                             "Area": 423.0867919921875,
                             "ProjectedArea": 4711,
-                            "Population": 566189,
+                            "Population": 283094,
                             "ProvinceParent": "1BD67D",
                             "ContinentParent": "A69658",
                             "ClaimValue": 10794
@@ -3335,7 +3335,7 @@
                     "HexCode": "E39DAB",
                     "ContinentParent": "A69658",
                     "Area": 113.04277038574219,
-                    "Population": 189484,
+                    "Population": 94742,
                     "Tiles": [
                         {
                             "HexCode": "5BE0C2",
@@ -3346,7 +3346,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 482875155.609375,
+                            "GDP": 241437577.8046875,
                             "Coordinates": {
                                 "x": -141.39999389648438,
                                 "y": -47.279998779296878
@@ -3359,7 +3359,7 @@
                             "Terrain": "Grasslands",
                             "Area": 69.46341705322266,
                             "ProjectedArea": 808,
-                            "Population": 130414,
+                            "Population": 65207,
                             "ProvinceParent": "E39DAB",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2973
@@ -3373,7 +3373,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 19948111.375,
+                            "GDP": 9974055.6875,
                             "Coordinates": {
                                 "x": -137.00999450683595,
                                 "y": -44.52000045776367
@@ -3386,7 +3386,7 @@
                             "Terrain": "Shores",
                             "Area": 7.059289932250977,
                             "ProjectedArea": 78,
-                            "Population": 8408,
+                            "Population": 4204,
                             "ProvinceParent": "E39DAB",
                             "ContinentParent": "A69658",
                             "ClaimValue": 871
@@ -3400,7 +3400,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 137352993.734375,
+                            "GDP": 68676496.8671875,
                             "Coordinates": {
                                 "x": -129.55999755859376,
                                 "y": -43.790000915527347
@@ -3413,7 +3413,7 @@
                             "Terrain": "Grasslands",
                             "Area": 36.52006149291992,
                             "ProjectedArea": 397,
-                            "Population": 50662,
+                            "Population": 25331,
                             "ProvinceParent": "E39DAB",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1618
@@ -3424,7 +3424,7 @@
                     "HexCode": "57EE42",
                     "ContinentParent": "A69658",
                     "Area": 3296.029296875,
-                    "Population": 4223342,
+                    "Population": 2111668,
                     "Tiles": [
                         {
                             "HexCode": "839690",
@@ -3435,7 +3435,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 123070493.6171875,
+                            "GDP": 61534285.515625,
                             "Coordinates": {
                                 "x": -117.19000244140625,
                                 "y": -46.619998931884769
@@ -3448,7 +3448,7 @@
                             "Terrain": "Grasslands",
                             "Area": 67.48681640625,
                             "ProjectedArea": 789,
-                            "Population": 64013,
+                            "Population": 32006,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 1546
@@ -3462,7 +3462,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 503953993.6953125,
+                            "GDP": 251976035.5546875,
                             "Coordinates": {
                                 "x": -118.55999755859375,
                                 "y": -46.25
@@ -3475,7 +3475,7 @@
                             "Terrain": "Grasslands",
                             "Area": 276.3476867675781,
                             "ProjectedArea": 3198,
-                            "Population": 262123,
+                            "Population": 131061,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5217
@@ -3493,7 +3493,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 571651586.0625,
+                            "GDP": 285825793.03125,
                             "Coordinates": {
                                 "x": -116.2300033569336,
                                 "y": -45.619998931884769
@@ -3506,7 +3506,7 @@
                             "Terrain": "Grasslands",
                             "Area": 333.6690979003906,
                             "ProjectedArea": 3798,
-                            "Population": 308316,
+                            "Population": 154158,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 11493
@@ -3524,7 +3524,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 472409559.53125,
+                            "GDP": 236204779.765625,
                             "Coordinates": {
                                 "x": -118.58999633789063,
                                 "y": -44.959999084472659
@@ -3537,7 +3537,7 @@
                             "Terrain": "Grasslands",
                             "Area": 155.2102508544922,
                             "ProjectedArea": 1749,
-                            "Population": 192490,
+                            "Population": 96245,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 9212
@@ -3555,7 +3555,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 405215606.25,
+                            "GDP": 202607803.125,
                             "Coordinates": {
                                 "x": -117.30999755859375,
                                 "y": -44.619998931884769
@@ -3568,7 +3568,7 @@
                             "Terrain": "Grasslands",
                             "Area": 154.73963928222657,
                             "ProjectedArea": 1746,
-                            "Population": 176736,
+                            "Population": 88368,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 8959
@@ -3586,7 +3586,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 557538799.359375,
+                            "GDP": 278768213.421875,
                             "Coordinates": {
                                 "x": -116.02999877929688,
                                 "y": -44.209999084472659
@@ -3599,7 +3599,7 @@
                             "Terrain": "Grasslands",
                             "Area": 197.28363037109376,
                             "ProjectedArea": 2173,
-                            "Population": 234999,
+                            "Population": 117499,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 9993
@@ -3613,7 +3613,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1266616432.8125,
+                            "GDP": 633308216.40625,
                             "Coordinates": {
                                 "x": -121.66000366210938,
                                 "y": -43.560001373291019
@@ -3626,7 +3626,7 @@
                             "Terrain": "Grasslands",
                             "Area": 216.39077758789063,
                             "ProjectedArea": 2387,
-                            "Population": 374440,
+                            "Population": 187220,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 6870
@@ -3644,7 +3644,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 877226955.2265625,
+                            "GDP": 438612122.03125,
                             "Coordinates": {
                                 "x": -120.12999725341797,
                                 "y": -43.91999816894531
@@ -3657,7 +3657,7 @@
                             "Terrain": "Grasslands",
                             "Area": 233.2389373779297,
                             "ProjectedArea": 2563,
-                            "Population": 323561,
+                            "Population": 161780,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 11496
@@ -3675,7 +3675,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1343638774.375,
+                            "GDP": 671819387.1875,
                             "Coordinates": {
                                 "x": -118.66000366210938,
                                 "y": -43.349998474121097
@@ -3688,7 +3688,7 @@
                             "Terrain": "Grasslands",
                             "Area": 382.7076416015625,
                             "ProjectedArea": 4195,
-                            "Population": 512152,
+                            "Population": 256076,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 14872
@@ -3706,7 +3706,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 830229920.953125,
+                            "GDP": 415113733.375,
                             "Coordinates": {
                                 "x": -116.62999725341797,
                                 "y": -42.75
@@ -3719,7 +3719,7 @@
                             "Terrain": "Grasslands",
                             "Area": 272.7709655761719,
                             "ProjectedArea": 2960,
-                            "Population": 338289,
+                            "Population": 169144,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 17227
@@ -3733,7 +3733,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 1781032366.609375,
+                            "GDP": 890516183.3046875,
                             "Coordinates": {
                                 "x": -120.95999908447266,
                                 "y": -42.63999938964844
@@ -3746,7 +3746,7 @@
                             "Terrain": "Grasslands",
                             "Area": 180.7178192138672,
                             "ProjectedArea": 1936,
-                            "Population": 393326,
+                            "Population": 196663,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 7087
@@ -3768,7 +3768,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 728814885.21875,
+                            "GDP": 364407442.609375,
                             "Coordinates": {
                                 "x": -117.94999694824219,
                                 "y": -41.97999954223633
@@ -3781,7 +3781,7 @@
                             "Terrain": "Grasslands",
                             "Area": 239.4511260986328,
                             "ProjectedArea": 2544,
-                            "Population": 296966,
+                            "Population": 148483,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 20086
@@ -3803,7 +3803,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 1629493647.6484376,
+                            "GDP": 814745468.2421875,
                             "Coordinates": {
                                 "x": -119.4000015258789,
                                 "y": -40.95000076293945
@@ -3816,7 +3816,7 @@
                             "Terrain": "Grasslands",
                             "Area": 433.2521667480469,
                             "ProjectedArea": 4603,
-                            "Population": 601031,
+                            "Population": 300515,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 25776
@@ -3838,7 +3838,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 278582702.34375,
+                            "GDP": 139291351.171875,
                             "Coordinates": {
                                 "x": -117.22000122070313,
                                 "y": -40.72999954223633
@@ -3851,7 +3851,7 @@
                             "Terrain": "Grasslands",
                             "Area": 152.76303100585938,
                             "ProjectedArea": 1623,
-                            "Population": 144900,
+                            "Population": 72450,
                             "ProvinceParent": "57EE42",
                             "ContinentParent": "A69658",
                             "ClaimValue": 23205
@@ -3862,7 +3862,7 @@
                     "HexCode": "5E5AB8",
                     "ContinentParent": "A69658",
                     "Area": 321.71539306640627,
-                    "Population": 281621,
+                    "Population": 140809,
                     "Tiles": [
                         {
                             "HexCode": "32E178",
@@ -3881,7 +3881,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 186571609.96875,
+                            "GDP": 93285804.984375,
                             "Coordinates": {
                                 "x": -171.22999572753907,
                                 "y": -45.459999084472659
@@ -3894,7 +3894,7 @@
                             "Terrain": "Shores",
                             "Area": 108.90131378173828,
                             "ProjectedArea": 1228,
-                            "Population": 100626,
+                            "Population": 50313,
                             "ProvinceParent": "5E5AB8",
                             "ContinentParent": "A69658",
                             "ClaimValue": 8891
@@ -3916,7 +3916,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 246154979.296875,
+                            "GDP": 123076659.921875,
                             "Coordinates": {
                                 "x": -171.80999755859376,
                                 "y": -44.18000030517578
@@ -3929,7 +3929,7 @@
                             "Terrain": "Grasslands",
                             "Area": 174.41152954101563,
                             "ProjectedArea": 1943,
-                            "Population": 148335,
+                            "Population": 74167,
                             "ProvinceParent": "5E5AB8",
                             "ContinentParent": "A69658",
                             "ClaimValue": 9812
@@ -3947,7 +3947,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 24707597.578125,
+                            "GDP": 12352969.0625,
                             "Coordinates": {
                                 "x": -176.6999969482422,
                                 "y": -44.38999938964844
@@ -3960,7 +3960,7 @@
                             "Terrain": "Shores",
                             "Area": 17.50704002380371,
                             "ProjectedArea": 186,
-                            "Population": 14889,
+                            "Population": 7444,
                             "ProvinceParent": "5E5AB8",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2800
@@ -3978,7 +3978,7 @@
                                     "Yield": 1
                                 }
                             ],
-                            "GDP": 29490141.484375,
+                            "GDP": 14744241.015625,
                             "Coordinates": {
                                 "x": -175.67999267578126,
                                 "y": -44.06999969482422
@@ -3991,7 +3991,7 @@
                             "Terrain": "Grasslands",
                             "Area": 20.895498275756837,
                             "ProjectedArea": 228,
-                            "Population": 17771,
+                            "Population": 8885,
                             "ProvinceParent": "5E5AB8",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2854
@@ -4002,7 +4002,7 @@
                     "HexCode": "3D98CD",
                     "ContinentParent": "A69658",
                     "Area": 118.69019317626953,
-                    "Population": 100944,
+                    "Population": 50472,
                     "Tiles": [
                         {
                             "HexCode": "879479",
@@ -4013,7 +4013,7 @@
                                     "Yield": 2
                                 }
                             ],
-                            "GDP": 167511836.25,
+                            "GDP": 83755918.125,
                             "Coordinates": {
                                 "x": -124.11000061035156,
                                 "y": -21.559999465942384
@@ -4026,7 +4026,7 @@
                             "Terrain": "Grasslands",
                             "Area": 118.69019317626953,
                             "ProjectedArea": 1016,
-                            "Population": 100944,
+                            "Population": 50472,
                             "ProvinceParent": "3D98CD",
                             "ContinentParent": "A69658",
                             "ClaimValue": 2620
