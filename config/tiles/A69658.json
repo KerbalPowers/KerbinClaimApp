@@ -7,7 +7,7 @@
                     "HexCode": "4ACDB2",
                     "ContinentParent": "A69658",
                     "Area": 8.755327224731445,
-                    "Population": 0,
+                    "Population": 25,
                     "Tiles": [
                         {
                             "HexCode": "3C2547",
@@ -18,7 +18,7 @@
                                     "Yield": 3
                                 }
                             ],
-                            "GDP": 0.0,
+                            "GDP": 8176.953125,
                             "Coordinates": {
                                 "x": -115.19000244140625,
                                 "y": -73.0999984741211
@@ -31,7 +31,7 @@
                             "Terrain": "Ice Sheet",
                             "Area": 8.755327224731445,
                             "ProjectedArea": 320,
-                            "Population": 0,
+                            "Population": 25,
                             "ProvinceParent": "4ACDB2",
                             "ContinentParent": "A69658",
                             "ClaimValue": 5421

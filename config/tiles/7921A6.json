@@ -713,7 +713,7 @@
                     "HexCode": "2ACCA8",
                     "ContinentParent": "7921A6",
                     "Area": 4.338085174560547,
-                    "Population": 0,
+                    "Population": 1350,
                     "Tiles": [
                         {
                             "HexCode": "7550EE",
@@ -728,7 +728,7 @@
                                     "Yield": 3
                                 }
                             ],
-                            "GDP": 0.0,
+                            "GDP": 1641283.59375,
                             "Coordinates": {
                                 "x": 60.130001068115234,
                                 "y": -71.05999755859375
@@ -741,10 +741,10 @@
                             "Terrain": "Ice Sheet",
                             "Area": 4.338085174560547,
                             "ProjectedArea": 142,
-                            "Population": 0,
+                            "Population": 1350,
                             "ProvinceParent": "2ACCA8",
                             "ContinentParent": "7921A6",
-                            "ClaimValue": 6490
+                            "ClaimValue": 6533
                         }
                     ]
                 },
