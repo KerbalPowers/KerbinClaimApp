@@ -233,10 +233,13 @@
   // 0xAABBGGRR from r,g,b,a (canvas ImageData is little-endian RGBA)
   const pack = (r, g, b, a) => ((a << 24) | (b << 16) | (g << 8) | r) >>> 0;
 
-  // colour per (state & 15); priority selected > province > hover > claimed
+  // colour per (state & 15); priority selected > province > claimed (brighter under the mouse) > hover
   function makeLut(colours) {
     const lut = new Uint32Array(16);
-    for (let s = 1; s < 16; s++) lut[s] = (s & SELECTED) ? colours.selected : (s & PROVINCE) ? colours.province : (s & HOVER) ? colours.hover : colours.claimed;
+    for (let s = 1; s < 16; s++) {
+      lut[s] = (s & SELECTED) ? colours.selected : (s & PROVINCE) ? colours.province
+        : (s & CLAIMED) ? ((s & HOVER) ? (colours.claimedHover || colours.claimed) : colours.claimed) : colours.hover;
+    }
     return lut;
   }
 
@@ -252,10 +255,11 @@
     }
   }
 
-  // Outline of the selection: pixels of selected / province tiles lying within `t` pixels of anything that is not part of the
-  // selection (another tile, sea, or the top/bottom of the map). Wraps horizontally. Drawn over the fill painted by paintTiles.
-  function paintOutline(hit, buf32, state, ids, colour, t) {
-    const { w, h, idx, bb } = hit, SEL = SELECTED | PROVINCE;
+  // Outline of a set of tiles: pixels of tiles whose state has a `mask` bit that lie within `t` pixels of anything not in the set
+  // (another tile, sea, or the top/bottom of the map). Wraps horizontally. Drawn over the fill painted by paintTiles.
+  // mask defaults to the inspect selection (SELECTED | PROVINCE); pass CLAIMED for the outline round claimed territory.
+  function paintOutline(hit, buf32, state, ids, colour, t, mask) {
+    const { w, h, idx, bb } = hit, SEL = mask || (SELECTED | PROVINCE);
     const inSel = o => { const i = idx[o]; return i !== 0 && (state[i] & SEL) !== 0; };
     for (const id of ids) {
       if (!(state[id] & SEL)) continue;

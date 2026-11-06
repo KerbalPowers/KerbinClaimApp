@@ -199,10 +199,15 @@
   himg = hctx.createImageData(hit.w, hit.h);
   buf32 = new Uint32Array(himg.data.buffer);
   state = new Uint8Array(model.tiles.length);
-  // Selection is monochrome: a white wash (strong for the tile, lighter for the rest of its province) with a dark outline round the
-  // whole selection; hover is a faint white wash. Claimed stays red.
-  lut = K.makeLut({ claimed: K.pack(255, 0, 0, 255), selected: K.pack(255, 255, 255, 150), province: K.pack(255, 255, 255, 80), hover: K.pack(255, 255, 255, 55) });
-  const OUTLINE = K.pack(15, 15, 15, 235), OUTLINE_PX = 3;
+// Everything is monochrome white: claimed territory = a white wash with a thin outline round the whole claimed area; the inspect
+  // selection = a stronger wash (tile) / lighter wash (rest of its province) with a thicker outline; hover = a faint wash.
+  // Claims are only drawn in Claim mode: in Inspect mode they are hidden (the CLAIMED bits stay in `state`, so nothing is lost)
+  // and come straight back when Claim mode is re-entered. Two lookup tables, swapped by setMode.
+  const base = { hover: K.pack(255, 255, 255, 65), selected: K.pack(255, 255, 255, 185), province: K.pack(255, 255, 255, 115) };
+  const lutClaim = K.makeLut(Object.assign({ claimed: K.pack(255, 255, 255, 100), claimedHover: K.pack(255, 255, 255, 135) }, base));
+  const lutInspect = K.makeLut(Object.assign({ claimed: 0, claimedHover: base.hover }, base));
+  lut = lutInspect;
+  const LINE = K.pack(255, 255, 255, 255), CLAIM_PX = 2, SELECT_PX = 4;
 
   function flush(ids) {
     if (highlight) highlight.schedule();
@@ -214,8 +219,31 @@
     }
     if (x1 >= 0) hctx.putImageData(himg, 0, 0, x0, y0, x1 - x0 + 1, y1 - y0 + 1);
   }
-  const repaint = ids => { K.paintTiles(hit, buf32, state, lut, ids); K.paintOutline(hit, buf32, state, ids, OUTLINE, OUTLINE_PX); flush(ids); };
-  const repaintAll = () => { K.paintAll(hit, buf32, state, lut); K.paintOutline(hit, buf32, state, inspectIds, OUTLINE, OUTLINE_PX); flush(); };
+  const outlines = ids => {
+    if (mode === 1) K.paintOutline(hit, buf32, state, ids, LINE, CLAIM_PX, K.CLAIMED);
+    K.paintOutline(hit, buf32, state, ids, LINE, SELECT_PX);
+  };
+  // Outlines run along tile edges, so changing a tile also changes the outline of any claimed/selected tile touching it:
+  // those are repainted with it. (A big change, e.g. Claim All, just repaints everything.)
+  function repaint(ids) {
+    if (ids.length > 40) { repaintAll(); return; }
+    const set = new Set(ids), pad = Math.max(CLAIM_PX, SELECT_PX) + 1, bb = hit.bb;
+    for (let j = 1; j < state.length; j++) {
+      if (set.has(j) || !(state[j] & (K.CLAIMED | K.SELECTED | K.PROVINCE)) || bb[j * 4 + 2] < 0) continue;
+      for (const i of ids) {
+        const a = i * 4, c = j * 4;
+        if (bb[a + 2] < 0) continue;
+        if (bb[c] <= bb[a + 2] + pad && bb[c + 2] >= bb[a] - pad && bb[c + 1] <= bb[a + 3] + pad && bb[c + 3] >= bb[a + 1] - pad) { set.add(j); break; }
+      }
+    }
+    const all = [...set];
+    K.paintTiles(hit, buf32, state, lut, all); outlines(all); flush(all);
+  }
+  function repaintAll() {
+    K.paintAll(hit, buf32, state, lut);
+    const marked = []; for (let i = 1; i < state.length; i++) if (state[i] & (K.CLAIMED | K.SELECTED | K.PROVINCE)) marked.push(i);
+    outlines(marked); flush();
+  }
 
   const layerBox = $('layers');
   // Key (legend) images, bottom right: one per active Culture / Climate layer, and one in Claim mode. Their links are
@@ -368,6 +396,7 @@
     $('mode-inspect').classList.toggle('active', m === 0);
     $('mode-claim').classList.toggle('active', m === 1);
     $('claim-panel').hidden = m !== 1; updateKeys();
+    lut = m === 1 ? lutClaim : lutInspect;
     $('inspect-help').hidden = m !== 0 || inspectIds.length > 0;      // the hint only shows while nothing is selected
     if (m === 1) {
       for (const i of inspectIds) state[i] &= ~(K.SELECTED | K.PROVINCE);
@@ -376,6 +405,7 @@
       if (cfg.claimedMapUrl) wikiLayer.show(Sources.direct(cfg.claimedMapUrl), toast);
       updateClaimUI();
     } else wikiLayer.setVisible(false);
+    repaintAll();                                              // show / hide the claimed highlight for the new mode
   }
   $('mode-inspect').onclick = () => setMode(0);
   $('mode-claim').onclick = () => setMode(1);

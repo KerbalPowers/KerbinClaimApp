@@ -104,8 +104,8 @@ test('selection outline and hover', () => {
   for (let y = 1; y <= 4; y++) for (let x = 2; x <= 5; x++) idx[y * w + x] = 1;
   bb.set([2, 1, 5, 4], 4);
   const hit = { w, h, idx, bb }, state = new Uint8Array(4), buf = new Uint32Array(w * h);
-  const lut = K.makeLut({ claimed: 1, selected: 2, province: 3, hover: 4 });
-  assert.equal(lut[K.HOVER], 4); assert.equal(lut[K.CLAIMED | K.HOVER], 4); assert.equal(lut[K.HOVER | K.PROVINCE], 3); assert.equal(lut[K.HOVER | K.SELECTED], 2);
+  const lut = K.makeLut({ claimed: 1, selected: 2, province: 3, hover: 4, claimedHover: 5 });
+  assert.equal(lut[K.HOVER], 4); assert.equal(lut[K.CLAIMED], 1); assert.equal(lut[K.CLAIMED | K.HOVER], 5); assert.equal(lut[K.HOVER | K.PROVINCE], 3); assert.equal(lut[K.HOVER | K.SELECTED], 2);
   state[1] = K.SELECTED;
   K.paintTiles(hit, buf, state, lut, [1]); K.paintOutline(hit, buf, state, [1], 9, 1);
   assert.equal(buf[2 * w + 3], 2);                                   // interior keeps the fill
@@ -113,6 +113,12 @@ test('selection outline and hover', () => {
   state[1] = K.HOVER; buf.fill(0);
   K.paintTiles(hit, buf, state, lut, [1]); K.paintOutline(hit, buf, state, [1], 9, 1);
   assert.equal(buf[1 * w + 3], 4);                                   // hover alone: faint fill, no outline
+  // claimed outline uses the CLAIMED bit; two touching claimed tiles share no outline between them
+  idx[1 * w + 6] = 2; idx[2 * w + 6] = 2; bb.set([6, 1, 6, 2], 8);
+  state[1] = state[2] = K.CLAIMED; buf.fill(0);
+  K.paintTiles(hit, buf, state, lut, [1, 2]); K.paintOutline(hit, buf, state, [1, 2], 9, 1, K.CLAIMED);
+  assert.equal(buf[2 * w + 5], 1);                                   // tile 1 edge next to claimed tile 2: no outline
+  assert.equal(buf[2 * w + 3], 1); assert.equal(buf[1 * w + 3], 9);  // interior vs. outer edge
 });
 test('territory import: world-turn image and old-frame image', () => {
   const img = new Uint8Array(10 * 4 * 4); img.set([255, 0, 0, 255], (2 * 10 + 3) * 4);          // tile 1's pixel
