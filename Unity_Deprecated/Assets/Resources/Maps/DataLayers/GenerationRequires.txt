@@ -1,1 +1,0 @@
-Every map in datalayers must be read/write to generate. Only provs and tiles need to be on all the time

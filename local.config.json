@@ -1,0 +1,26 @@
+{
+  "_help": "Where the map files are on THIS machine. Used only by serve.py. Use forward slashes (C:/Maps/...) even on Windows. Relative paths are relative to this file.",
+
+  "mapsRoot": "../KerbinClaimApp/KerbinMap/Assets/Resources/Maps",
+  "maps": {
+    "Tiles":       "DataLayers/Tiles.png",
+    "Language":    "DataLayers/Language.png",
+    "FlatMap":     "VisualLayers/FlatMap.png",
+    "Climate":     "VisualLayers/Climate.png",
+    "Temperature": "VisualLayers/Temperature.png",
+    "Cities":      "VisualLayers/Cities.png",
+    "LatLong":     "VisualLayers/LatLong.png"
+  },
+
+  "iconsRoot": "../KerbinClaimApp/KerbinMap/Assets/Resources/UI",
+  "icons": {
+    "Logo":    "KP3.png",
+    "City":    "Button_City.png",
+    "Climate": "Button_Climate.png",
+    "Temp":    "Button_Temp.png",
+    "Culture": "Button_Culture.png",
+    "Globe":   "Button_Globe.png",
+    "Erase":   "Button_Erase.png",
+    "Save":    "Button_Save.png"
+  }
+}

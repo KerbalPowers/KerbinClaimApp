@@ -1,0 +1,354 @@
+{
+    "Content": [
+        {
+            "Shade": "215E8A",
+            "Continent": "215E8A",
+            "Pixels": 410390,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "24618C",
+            "Continent": "215E8A",
+            "Pixels": 844689,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "2C6995",
+            "Continent": "215E8A",
+            "Pixels": 726229,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "3E7BA7",
+            "Continent": "215E8A",
+            "Pixels": 21607,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "417EA9",
+            "Continent": "215E8A",
+            "Pixels": 432453,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "4481AD",
+            "Continent": "215E8A",
+            "Pixels": 362066,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "4C88B4",
+            "Continent": "215E8A",
+            "Pixels": 345340,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "4C89B5",
+            "Continent": "215E8A",
+            "Pixels": 485459,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "5996C1",
+            "Continent": "215E8A",
+            "Pixels": 668528,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "327243",
+            "Continent": "327243",
+            "Pixels": 657322,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "3D8752",
+            "Continent": "327243",
+            "Pixels": 230000,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "448F58",
+            "Continent": "327243",
+            "Pixels": 388950,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "47915C",
+            "Continent": "327243",
+            "Pixels": 335438,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "4FAD6A",
+            "Continent": "327243",
+            "Pixels": 1079622,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "69B37E",
+            "Continent": "327243",
+            "Pixels": 1004713,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "7921A6",
+            "Continent": "7921A6",
+            "Pixels": 495581,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "7C23A9",
+            "Continent": "7921A6",
+            "Pixels": 437653,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "8229AF",
+            "Continent": "7921A6",
+            "Pixels": 630303,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "862CB1",
+            "Continent": "7921A6",
+            "Pixels": 1094774,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "9C42C8",
+            "Continent": "7921A6",
+            "Pixels": 28208,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "9D44CA",
+            "Continent": "7921A6",
+            "Pixels": 1023267,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "9F44CA",
+            "Continent": "7921A6",
+            "Pixels": 301024,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "A54BD2",
+            "Continent": "7921A6",
+            "Pixels": 334502,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "8E2525",
+            "Continent": "8E2525",
+            "Pixels": 835869,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "902727",
+            "Continent": "8E2525",
+            "Pixels": 509827,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "902828",
+            "Continent": "8E2525",
+            "Pixels": 249477,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "912929",
+            "Continent": "8E2525",
+            "Pixels": 425138,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "962E2E",
+            "Continent": "8E2525",
+            "Pixels": 968883,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "9B3333",
+            "Continent": "8E2525",
+            "Pixels": 923533,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "A03838",
+            "Continent": "8E2525",
+            "Pixels": 629001,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "A53D3D",
+            "Continent": "8E2525",
+            "Pixels": 388051,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "A63D3D",
+            "Continent": "8E2525",
+            "Pixels": 472515,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "A73E3E",
+            "Continent": "8E2525",
+            "Pixels": 12322,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "AC4343",
+            "Continent": "8E2525",
+            "Pixels": 684905,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "AD4444",
+            "Continent": "8E2525",
+            "Pixels": 540307,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "BA5151",
+            "Continent": "8E2525",
+            "Pixels": 501702,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "BD5555",
+            "Continent": "8E2525",
+            "Pixels": 528942,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "C15959",
+            "Continent": "8E2525",
+            "Pixels": 569466,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "C45B5B",
+            "Continent": "8E2525",
+            "Pixels": 336301,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "C80000",
+            "Continent": "8E2525",
+            "Pixels": 1,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "9B9B9B",
+            "Continent": "9B9B9B",
+            "Pixels": 1348245,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "A0A0A0",
+            "Continent": "9B9B9B",
+            "Pixels": 1194128,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "ADADAD",
+            "Continent": "9B9B9B",
+            "Pixels": 354471,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "AFAFAF",
+            "Continent": "9B9B9B",
+            "Pixels": 676330,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "BABABA",
+            "Continent": "9B9B9B",
+            "Pixels": 543862,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "C4C4C4",
+            "Continent": "9B9B9B",
+            "Pixels": 2611894,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "CCCCCC",
+            "Continent": "9B9B9B",
+            "Pixels": 2799483,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "998B4C",
+            "Continent": "A69658",
+            "Pixels": 296595,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "A69658",
+            "Continent": "A69658",
+            "Pixels": 39779,
+            "Auto": true,
+            "Confident": true
+        },
+        {
+            "Shade": "AD9D5E",
+            "Continent": "A69658",
+            "Pixels": 1022,
+            "Auto": true,
+            "Confident": true
+        }
+    ]
+}

@@ -1,0 +1,4248 @@
+{
+    "Content": [
+        {
+            "HexCode": "A69658",
+            "Provinces": [
+                {
+                    "HexCode": "4ACDB2",
+                    "ContinentParent": "A69658",
+                    "Area": 8.755327224731445,
+                    "Population": 0,
+                    "Tiles": [
+                        {
+                            "HexCode": "3C2547",
+                            "Culture": "DD8211",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": -115.19000244140625,
+                                "y": -73.0999984741211
+                            },
+                            "Position": {
+                                "x": 2212.239990234375,
+                                "y": 576.8200073242188
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 8.755327224731445,
+                            "ProjectedArea": 320,
+                            "Population": 0,
+                            "ProvinceParent": "4ACDB2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5421
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "14E767",
+                    "ContinentParent": "A69658",
+                    "Area": 1276.5389404296875,
+                    "Population": 256746,
+                    "Tiles": [
+                        {
+                            "HexCode": "63ECA0",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 167.13999938964844,
+                                "y": -71.55999755859375
+                            },
+                            "Position": {
+                                "x": 11849.0595703125,
+                                "y": 629.47998046875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 56.15585708618164,
+                            "ProjectedArea": 1886,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5534
+                        },
+                        {
+                            "HexCode": "5642FD",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 165.27000427246094,
+                                "y": -71.38999938964844
+                            },
+                            "Position": {
+                                "x": 11785.1796875,
+                                "y": 635.3800048828125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 25.56756019592285,
+                            "ProjectedArea": 851,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5461
+                        },
+                        {
+                            "HexCode": "58DA13",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 169.60000610351562,
+                                "y": -71.45999908447266
+                            },
+                            "Position": {
+                                "x": 11932.8701171875,
+                                "y": 632.8900146484375
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 43.10003662109375,
+                            "ProjectedArea": 1440,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5503
+                        },
+                        {
+                            "HexCode": "7034DF",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 170.7899932861328,
+                                "y": -70.3499984741211
+                            },
+                            "Position": {
+                                "x": 11973.76953125,
+                                "y": 670.5900268554688
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 163.66314697265625,
+                            "ProjectedArea": 5172,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5792
+                        },
+                        {
+                            "HexCode": "15C25A",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 166.0800018310547,
+                                "y": -70.30999755859375
+                            },
+                            "Position": {
+                                "x": 11813.0,
+                                "y": 672.0
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 157.271240234375,
+                            "ProjectedArea": 4960,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5777
+                        },
+                        {
+                            "HexCode": "1E8873",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 168.42999267578125,
+                                "y": -70.30999755859375
+                            },
+                            "Position": {
+                                "x": 11893.0,
+                                "y": 672.0
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 157.271240234375,
+                            "ProjectedArea": 4960,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5777
+                        },
+                        {
+                            "HexCode": "7B9DF5",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 808982402.4140625,
+                            "Coordinates": {
+                                "x": 164.0500030517578,
+                                "y": -70.19999694824219
+                            },
+                            "Position": {
+                                "x": 11743.650390625,
+                                "y": 675.9400024414062
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 105.86337280273438,
+                            "ProjectedArea": 3320,
+                            "Population": 136869,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 10033
+                        },
+                        {
+                            "HexCode": "18C0F8",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 172.9600067138672,
+                                "y": -69.91000366210938
+                            },
+                            "Position": {
+                                "x": 12047.7197265625,
+                                "y": 685.5999755859375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 87.21131896972656,
+                            "ProjectedArea": 2698,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5609
+                        },
+                        {
+                            "HexCode": "69A175",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 174.1300048828125,
+                                "y": -69.58000183105469
+                            },
+                            "Position": {
+                                "x": 12087.73046875,
+                                "y": 697.0599975585938
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 15.468534469604492,
+                            "ProjectedArea": 471,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5437
+                        },
+                        {
+                            "HexCode": "D07E59",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 13603401.5,
+                            "Coordinates": {
+                                "x": 165.02999877929688,
+                                "y": -68.77999877929688
+                            },
+                            "Position": {
+                                "x": 11776.9599609375,
+                                "y": 724.3099975585938
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 114.60205078125,
+                            "ProjectedArea": 3364,
+                            "Population": 16946,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 6217
+                        },
+                        {
+                            "HexCode": "E95711",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 369911497.84375,
+                            "Coordinates": {
+                                "x": 167.22999572753906,
+                                "y": -68.80999755859375
+                            },
+                            "Position": {
+                                "x": 11851.98046875,
+                                "y": 723.3699951171875
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 112.58995819091797,
+                            "ProjectedArea": 3309,
+                            "Population": 102931,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 8964
+                        },
+                        {
+                            "HexCode": "EF2244",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 169.5500030517578,
+                                "y": -68.81999969482422
+                            },
+                            "Position": {
+                                "x": 11931.419921875,
+                                "y": 722.8499755859375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 109.6218032836914,
+                            "ProjectedArea": 3224,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5663
+                        },
+                        {
+                            "HexCode": "826BCE",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 171.82000732421875,
+                                "y": -69.01000213623047
+                            },
+                            "Position": {
+                                "x": 12008.7099609375,
+                                "y": 716.5999755859375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 73.78275299072266,
+                            "ProjectedArea": 2188,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5577
+                        },
+                        {
+                            "HexCode": "DFCA0F",
+                            "Culture": "A08B35",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 0.0,
+                            "Coordinates": {
+                                "x": 162.7899932861328,
+                                "y": -69.05999755859375
+                            },
+                            "Position": {
+                                "x": 11700.73046875,
+                                "y": 714.8900146484375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Ice Sheet",
+                            "Area": 54.3701286315918,
+                            "ProjectedArea": 1616,
+                            "Population": 0,
+                            "ProvinceParent": "14E767",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5530
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "854D2B",
+                    "ContinentParent": "A69658",
+                    "Area": 1552.342041015625,
+                    "Population": 972043,
+                    "Tiles": [
+                        {
+                            "HexCode": "FF0278",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 242611075.296875,
+                            "Coordinates": {
+                                "x": -146.00999450683594,
+                                "y": -56.970001220703125
+                            },
+                            "Position": {
+                                "x": 1160.27001953125,
+                                "y": 1127.31005859375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 171.69564819335938,
+                            "ProjectedArea": 3347,
+                            "Population": 102259,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4044
+                        },
+                        {
+                            "HexCode": "084855",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 124727815.78125,
+                            "Coordinates": {
+                                "x": -143.9499969482422,
+                                "y": -56.95000076293945
+                            },
+                            "Position": {
+                                "x": 1230.52001953125,
+                                "y": 1128.25
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 176.7517852783203,
+                            "ProjectedArea": 3443,
+                            "Population": 75162,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3189
+                        },
+                        {
+                            "HexCode": "A9B345",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 82929510.46875,
+                            "Coordinates": {
+                                "x": -142.4600067138672,
+                                "y": -55.83000183105469
+                            },
+                            "Position": {
+                                "x": 1281.4000244140625,
+                                "y": 1166.4100341796875
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 117.51892852783203,
+                            "ProjectedArea": 2223,
+                            "Population": 49974,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2241
+                        },
+                        {
+                            "HexCode": "2D24AD",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 92617935.3515625,
+                            "Coordinates": {
+                                "x": -144.80999755859375,
+                                "y": -55.959999084472656
+                            },
+                            "Position": {
+                                "x": 1201.030029296875,
+                                "y": 1161.989990234375
+                            },
+                            "Altitude": 159.490234375,
+                            "Terrain": "Grasslands",
+                            "Area": 108.12112426757812,
+                            "ProjectedArea": 2052,
+                            "Population": 49953,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2217
+                        },
+                        {
+                            "HexCode": "306685",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 5905191.390625,
+                            "Coordinates": {
+                                "x": -147.7899932861328,
+                                "y": -56.279998779296875
+                            },
+                            "Position": {
+                                "x": 1099.5400390625,
+                                "y": 1150.989990234375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Shores",
+                            "Area": 4.180150032043457,
+                            "ProjectedArea": 80,
+                            "Population": 2489,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 809
+                        },
+                        {
+                            "HexCode": "2D124E",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 85444416.40625,
+                            "Coordinates": {
+                                "x": -143.55999755859375,
+                                "y": -55.33000183105469
+                            },
+                            "Position": {
+                                "x": 1243.9599609375,
+                                "y": 1183.4100341796875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 99.74760437011719,
+                            "ProjectedArea": 1863,
+                            "Population": 46084,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2074
+                        },
+                        {
+                            "HexCode": "81184F",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 201457412.265625,
+                            "Coordinates": {
+                                "x": -145.72999572753906,
+                                "y": -55.22999954223633
+                            },
+                            "Position": {
+                                "x": 1169.6700439453125,
+                                "y": 1186.780029296875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 100.15796661376953,
+                            "ProjectedArea": 1866,
+                            "Population": 71927,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2902
+                        },
+                        {
+                            "HexCode": "AB1EAC",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 53326410.8984375,
+                            "Coordinates": {
+                                "x": -141.66000366210938,
+                                "y": -54.72999954223633
+                            },
+                            "Position": {
+                                "x": 1308.510009765625,
+                                "y": 1203.8800048828125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 92.71920013427734,
+                            "ProjectedArea": 1706,
+                            "Population": 36019,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1735
+                        },
+                        {
+                            "HexCode": "AFCC93",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 622833005.6953125,
+                            "Coordinates": {
+                                "x": -147.30999755859375,
+                                "y": -54.54999923706055
+                            },
+                            "Position": {
+                                "x": 1115.8199462890625,
+                                "y": 1209.93994140625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 115.44953918457031,
+                            "ProjectedArea": 2115,
+                            "Population": 130163,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4802
+                        },
+                        {
+                            "HexCode": "814509",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 405156182.0078125,
+                            "Coordinates": {
+                                "x": -144.58999633789062,
+                                "y": -54.04999923706055
+                            },
+                            "Position": {
+                                "x": 1208.6300048828125,
+                                "y": 1227.0799560546875
+                            },
+                            "Altitude": 159.490234375,
+                            "Terrain": "Grasslands",
+                            "Area": 230.80178833007812,
+                            "ProjectedArea": 4177,
+                            "Population": 154433,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5855
+                        },
+                        {
+                            "HexCode": "8212D1",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 172767439.8125,
+                            "Coordinates": {
+                                "x": -148.55999755859375,
+                                "y": -54.540000915527344
+                            },
+                            "Position": {
+                                "x": 1073.22998046875,
+                                "y": 1210.4300537109375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 52.585514068603516,
+                            "ProjectedArea": 963,
+                            "Population": 48074,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2024
+                        },
+                        {
+                            "HexCode": "81068B",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 673962370.9453125,
+                            "Coordinates": {
+                                "x": -146.25999450683594,
+                                "y": -53.56999969482422
+                            },
+                            "Position": {
+                                "x": 1151.72998046875,
+                                "y": 1243.3499755859375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 173.7506561279297,
+                            "ProjectedArea": 3109,
+                            "Population": 171621,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 6268
+                        },
+                        {
+                            "HexCode": "574288",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 41196218.203125,
+                            "Coordinates": {
+                                "x": -142.91000366210938,
+                                "y": -53.97999954223633
+                            },
+                            "Position": {
+                                "x": 1265.8399658203125,
+                                "y": 1229.3399658203125
+                            },
+                            "Altitude": 190.2275390625,
+                            "Terrain": "Grasslands",
+                            "Area": 108.86210632324219,
+                            "ProjectedArea": 1967,
+                            "Population": 33885,
+                            "ProvinceParent": "854D2B",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1705
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "FCBB48",
+                    "ContinentParent": "A69658",
+                    "Area": 141.12281799316406,
+                    "Population": 63127,
+                    "Tiles": [
+                        {
+                            "HexCode": "36F28E",
+                            "Culture": "A80D55",
+                            "LocalResources": [],
+                            "GDP": 25869910.375,
+                            "Coordinates": {
+                                "x": 178.69000244140625,
+                                "y": -57.09000015258789
+                            },
+                            "Position": {
+                                "x": 12243.3798828125,
+                                "y": 1123.4200439453125
+                            },
+                            "Altitude": -270.83135986328125,
+                            "Terrain": "Shallows",
+                            "Area": 18.3092098236084,
+                            "ProjectedArea": 358,
+                            "Population": 10904,
+                            "ProvinceParent": "FCBB48",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 393
+                        },
+                        {
+                            "HexCode": "617E08",
+                            "Culture": "B20E2F",
+                            "LocalResources": [],
+                            "GDP": 809813.125,
+                            "Coordinates": {
+                                "x": 174.9199981689453,
+                                "y": -52.38999938964844
+                            },
+                            "Position": {
+                                "x": 12114.75,
+                                "y": 1283.699951171875
+                            },
+                            "Altitude": -332.30584716796875,
+                            "Terrain": "Shallows",
+                            "Area": 1.1488029956817627,
+                            "ProjectedArea": 20,
+                            "Population": 488,
+                            "ProvinceParent": "FCBB48",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 18
+                        },
+                        {
+                            "HexCode": "44439A",
+                            "Culture": "B20E2F",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 82380231.484375,
+                            "Coordinates": {
+                                "x": 170.77000427246094,
+                                "y": -51.16999816894531
+                            },
+                            "Position": {
+                                "x": 11972.98046875,
+                                "y": 1325.5400390625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 116.74154663085938,
+                            "ProjectedArea": 1978,
+                            "Population": 49643,
+                            "ProvinceParent": "FCBB48",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4928
+                        },
+                        {
+                            "HexCode": "FFED15",
+                            "Culture": "AF072B",
+                            "LocalResources": [],
+                            "GDP": 861256.171875,
+                            "Coordinates": {
+                                "x": -177.8000030517578,
+                                "y": -49.5
+                            },
+                            "Position": {
+                                "x": 75.05000305175781,
+                                "y": 1382.550048828125
+                            },
+                            "Altitude": -301.568603515625,
+                            "Terrain": "Shallows",
+                            "Area": 1.2226808071136475,
+                            "ProjectedArea": 20,
+                            "Population": 519,
+                            "ProvinceParent": "FCBB48",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 19
+                        },
+                        {
+                            "HexCode": "7CBBA4",
+                            "Culture": "B20E2F",
+                            "LocalResources": [],
+                            "GDP": 2610319.765625,
+                            "Coordinates": {
+                                "x": 170.0,
+                                "y": -49.060001373291016
+                            },
+                            "Position": {
+                                "x": 11946.5302734375,
+                                "y": 1397.4200439453125
+                            },
+                            "Altitude": -86.40777587890625,
+                            "Terrain": "Shallows",
+                            "Area": 3.7005767822265625,
+                            "ProjectedArea": 60,
+                            "Population": 1573,
+                            "ProvinceParent": "FCBB48",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 59
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "D28CC2",
+                    "ContinentParent": "A69658",
+                    "Area": 615.835205078125,
+                    "Population": 339747,
+                    "Tiles": [
+                        {
+                            "HexCode": "812D8B",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 168790251.625,
+                            "Coordinates": {
+                                "x": -141.2100067138672,
+                                "y": -56.0099983215332
+                            },
+                            "Position": {
+                                "x": 1324.0699462890625,
+                                "y": 1160.280029296875
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 119.45264434814453,
+                            "ProjectedArea": 2270,
+                            "Population": 71144,
+                            "ProvinceParent": "D28CC2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2923
+                        },
+                        {
+                            "HexCode": "03212D",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 242259958.421875,
+                            "Coordinates": {
+                                "x": -139.5,
+                                "y": -55.7599983215332
+                            },
+                            "Position": {
+                                "x": 1382.489990234375,
+                                "y": 1168.699951171875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 138.00660705566406,
+                            "ProjectedArea": 2606,
+                            "Population": 92342,
+                            "ProvinceParent": "D28CC2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3646
+                        },
+                        {
+                            "HexCode": "049F05",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 154033757.96875,
+                            "Coordinates": {
+                                "x": -140.05999755859375,
+                                "y": -54.52000045776367
+                            },
+                            "Position": {
+                                "x": 1363.27001953125,
+                                "y": 1210.9300537109375
+                            },
+                            "Altitude": 589.811767578125,
+                            "Terrain": "Grasslands",
+                            "Area": 218.28018188476562,
+                            "ProjectedArea": 3996,
+                            "Population": 92822,
+                            "ProvinceParent": "D28CC2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3854
+                        },
+                        {
+                            "HexCode": "2E3C35",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 197960331.234375,
+                            "Coordinates": {
+                                "x": -137.8800048828125,
+                                "y": -54.65999984741211
+                            },
+                            "Position": {
+                                "x": 1437.6500244140625,
+                                "y": 1206.4300537109375
+                            },
+                            "Altitude": 159.490234375,
+                            "Terrain": "Grasslands",
+                            "Area": 140.0957489013672,
+                            "ProjectedArea": 2573,
+                            "Population": 83439,
+                            "ProvinceParent": "D28CC2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3366
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "17920D",
+                    "ContinentParent": "A69658",
+                    "Area": 1810.907470703125,
+                    "Population": 531443,
+                    "Tiles": [
+                        {
+                            "HexCode": "55B981",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 143602020.1171875,
+                            "Coordinates": {
+                                "x": -136.4499969482422,
+                                "y": -54.93000030517578
+                            },
+                            "Position": {
+                                "x": 1486.5999755859375,
+                                "y": 1197.010009765625
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 167.64007568359375,
+                            "ProjectedArea": 3100,
+                            "Population": 77451,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3240
+                        },
+                        {
+                            "HexCode": "2E639E",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 105878469.7265625,
+                            "Coordinates": {
+                                "x": -134.9499969482422,
+                                "y": -54.150001525878906
+                            },
+                            "Position": {
+                                "x": 1537.75,
+                                "y": 1223.8299560546875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 123.60184478759766,
+                            "ProjectedArea": 2242,
+                            "Population": 57105,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2484
+                        },
+                        {
+                            "HexCode": "82729A",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 11248174.921875,
+                            "Coordinates": {
+                                "x": -138.92999267578125,
+                                "y": -53.29999923706055
+                            },
+                            "Position": {
+                                "x": 1401.949951171875,
+                                "y": 1252.5699462890625
+                            },
+                            "Altitude": 589.811767578125,
+                            "Terrain": "Highlands",
+                            "Area": 151.01683044433594,
+                            "ProjectedArea": 2685,
+                            "Population": 15915,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1231
+                        },
+                        {
+                            "HexCode": "06B1D2",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 81058741.515625,
+                            "Coordinates": {
+                                "x": -134.27999877929688,
+                                "y": -52.79999923706055
+                            },
+                            "Position": {
+                                "x": 1560.530029296875,
+                                "y": 1269.81005859375
+                            },
+                            "Altitude": 128.7529296875,
+                            "Terrain": "Grasslands",
+                            "Area": 214.19451904296875,
+                            "ProjectedArea": 3764,
+                            "Population": 66673,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3007
+                        },
+                        {
+                            "HexCode": "8133A9",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 60913505.109375,
+                            "Coordinates": {
+                                "x": -135.97000122070312,
+                                "y": -53.220001220703125
+                            },
+                            "Position": {
+                                "x": 1502.8299560546875,
+                                "y": 1255.530029296875
+                            },
+                            "Altitude": 313.176513671875,
+                            "Terrain": "Grasslands",
+                            "Area": 160.96151733398438,
+                            "ProjectedArea": 2856,
+                            "Population": 50103,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2349
+                        },
+                        {
+                            "HexCode": "583FB5",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 28588043.7421875,
+                            "Coordinates": {
+                                "x": -137.49000549316406,
+                                "y": -53.06999969482422
+                            },
+                            "Position": {
+                                "x": 1451.1199951171875,
+                                "y": 1260.3800048828125
+                            },
+                            "Altitude": 497.5999755859375,
+                            "Terrain": "Grasslands",
+                            "Area": 125.70018005371094,
+                            "ProjectedArea": 2223,
+                            "Population": 28857,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1585
+                        },
+                        {
+                            "HexCode": "0439B4",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 116601473.828125,
+                            "Coordinates": {
+                                "x": -132.35000610351562,
+                                "y": -52.619998931884766
+                            },
+                            "Position": {
+                                "x": 1626.3399658203125,
+                                "y": 1275.75
+                            },
+                            "Altitude": 128.7529296875,
+                            "Terrain": "Grasslands",
+                            "Area": 165.23512268066406,
+                            "ProjectedArea": 2892,
+                            "Population": 70265,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3005
+                        },
+                        {
+                            "HexCode": "04601E",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 9849485.75,
+                            "Coordinates": {
+                                "x": -136.10000610351562,
+                                "y": -51.91999816894531
+                            },
+                            "Position": {
+                                "x": 1498.5,
+                                "y": 1299.719970703125
+                            },
+                            "Altitude": 190.2275390625,
+                            "Terrain": "Grasslands",
+                            "Area": 132.2332000732422,
+                            "ProjectedArea": 2278,
+                            "Population": 13936,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1123
+                        },
+                        {
+                            "HexCode": "82034F",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 6689855.6875,
+                            "Coordinates": {
+                                "x": -137.63999938964844,
+                                "y": -51.81999969482422
+                            },
+                            "Position": {
+                                "x": 1446.050048828125,
+                                "y": 1303.3599853515625
+                            },
+                            "Altitude": 251.7020263671875,
+                            "Terrain": "Grasslands",
+                            "Area": 127.36786651611328,
+                            "ProjectedArea": 2189,
+                            "Population": 10301,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 995
+                        },
+                        {
+                            "HexCode": "2E9C62",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 133740305.703125,
+                            "Coordinates": {
+                                "x": -133.69000244140625,
+                                "y": -51.34000015258789
+                            },
+                            "Position": {
+                                "x": 1580.6300048828125,
+                                "y": 1319.75
+                            },
+                            "Altitude": 128.7529296875,
+                            "Terrain": "Grasslands",
+                            "Area": 189.52169799804688,
+                            "ProjectedArea": 3223,
+                            "Population": 80593,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3393
+                        },
+                        {
+                            "HexCode": "DDE788",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 96668149.140625,
+                            "Coordinates": {
+                                "x": -132.30999755859375,
+                                "y": -51.2400016784668
+                            },
+                            "Position": {
+                                "x": 1627.9300537109375,
+                                "y": 1322.97998046875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 68.41240692138672,
+                            "ProjectedArea": 1161,
+                            "Population": 40745,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1828
+                        },
+                        {
+                            "HexCode": "AC9C84",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 13781222.921875,
+                            "Coordinates": {
+                                "x": -135.50999450683594,
+                                "y": -50.79999923706055
+                            },
+                            "Position": {
+                                "x": 1518.489990234375,
+                                "y": 1338.1500244140625
+                            },
+                            "Altitude": 374.6510009765625,
+                            "Terrain": "Grasslands",
+                            "Area": 185.02224731445312,
+                            "ProjectedArea": 3110,
+                            "Population": 19499,
+                            "ProvinceParent": "17920D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1428
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "BF6047",
+                    "ContinentParent": "A69658",
+                    "Area": 1227.94287109375,
+                    "Population": 517384,
+                    "Tiles": [
+                        {
+                            "HexCode": "722933",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 88082812.3046875,
+                            "Coordinates": {
+                                "x": -158.85000610351562,
+                                "y": -54.2400016784668
+                            },
+                            "Position": {
+                                "x": 721.8200073242188,
+                                "y": 1220.77001953125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 153.1492156982422,
+                            "ProjectedArea": 2784,
+                            "Population": 59495,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2991
+                        },
+                        {
+                            "HexCode": "698D38",
+                            "Culture": "AD0D2B",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 95195136.5234375,
+                            "Coordinates": {
+                                "x": -160.41000366210938,
+                                "y": -53.97999954223633
+                            },
+                            "Position": {
+                                "x": 668.6799926757812,
+                                "y": 1229.3199462890625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 111.13078308105469,
+                            "ProjectedArea": 2008,
+                            "Population": 51343,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5329
+                        },
+                        {
+                            "HexCode": "66724C",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 64486478.7890625,
+                            "Coordinates": {
+                                "x": -156.72999572753906,
+                                "y": -53.970001220703125
+                            },
+                            "Position": {
+                                "x": 794.3099975585938,
+                                "y": 1229.969970703125
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 112.12274169921875,
+                            "ProjectedArea": 2025,
+                            "Population": 43557,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2382
+                        },
+                        {
+                            "HexCode": "ED6F9A",
+                            "Culture": "AD0D2B",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                },
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 193521354.5,
+                            "Coordinates": {
+                                "x": -161.7899932861328,
+                                "y": -53.43000030517578
+                            },
+                            "Position": {
+                                "x": 621.47998046875,
+                                "y": 1248.3699951171875
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 136.95468139648438,
+                            "ProjectedArea": 2442,
+                            "Population": 81568,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 9958
+                        },
+                        {
+                            "HexCode": "2DB44C",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 56567438.125,
+                            "Coordinates": {
+                                "x": -155.75999450683594,
+                                "y": -53.150001525878906
+                            },
+                            "Position": {
+                                "x": 827.3599853515625,
+                                "y": 1257.949951171875
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 80.16289520263672,
+                            "ProjectedArea": 1420,
+                            "Population": 34088,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2003
+                        },
+                        {
+                            "HexCode": "3323A5",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 71438388.125,
+                            "Coordinates": {
+                                "x": -157.8800048828125,
+                                "y": -52.77000045776367
+                            },
+                            "Position": {
+                                "x": 755.0,
+                                "y": 1270.81005859375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 188.77418518066406,
+                            "ProjectedArea": 3315,
+                            "Population": 58760,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3053
+                        },
+                        {
+                            "HexCode": "66C207",
+                            "Culture": "AD0D2B",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 71962184.765625,
+                            "Coordinates": {
+                                "x": -159.25999450683594,
+                                "y": -53.11000061035156
+                            },
+                            "Position": {
+                                "x": 708.0900268554688,
+                                "y": 1259.0999755859375
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 101.97696685791016,
+                            "ProjectedArea": 1805,
+                            "Population": 43365,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2352
+                        },
+                        {
+                            "HexCode": "F037D1",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 3
+                                },
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 94306721.09375,
+                            "Coordinates": {
+                                "x": -154.55999755859375,
+                                "y": -52.34000015258789
+                            },
+                            "Position": {
+                                "x": 868.2000122070312,
+                                "y": 1285.449951171875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 133.64271545410156,
+                            "ProjectedArea": 2324,
+                            "Population": 56830,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 6819
+                        },
+                        {
+                            "HexCode": "D44C4C",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 70546197.265625,
+                            "Coordinates": {
+                                "x": -156.50999450683594,
+                                "y": -52.2400016784668
+                            },
+                            "Position": {
+                                "x": 801.9199829101562,
+                                "y": 1288.969970703125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 122.65784454345703,
+                            "ProjectedArea": 2128,
+                            "Population": 47650,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2539
+                        },
+                        {
+                            "HexCode": "CE753E",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 5187438.515625,
+                            "Coordinates": {
+                                "x": -152.77000427246094,
+                                "y": -52.5099983215332
+                            },
+                            "Position": {
+                                "x": 929.5,
+                                "y": 1279.5
+                            },
+                            "Altitude": 5.803955078125,
+                            "Terrain": "Shores",
+                            "Area": 4.285251617431641,
+                            "ProjectedArea": 75,
+                            "Population": 2342,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1165
+                        },
+                        {
+                            "HexCode": "39630F",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 71171542.578125,
+                            "Coordinates": {
+                                "x": -155.74000549316406,
+                                "y": -51.439998626708984
+                            },
+                            "Position": {
+                                "x": 828.1599731445312,
+                                "y": 1316.3499755859375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 83.08551025390625,
+                            "ProjectedArea": 1416,
+                            "Population": 38386,
+                            "ProvinceParent": "BF6047",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2507
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "531EF7",
+                    "ContinentParent": "A69658",
+                    "Area": 2806.36083984375,
+                    "Population": 1619870,
+                    "Tiles": [
+                        {
+                            "HexCode": "046919",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 40695149.203125,
+                            "Coordinates": {
+                                "x": -142.22000122070312,
+                                "y": -53.220001220703125
+                            },
+                            "Position": {
+                                "x": 1289.7099609375,
+                                "y": 1255.449951171875
+                            },
+                            "Altitude": 405.3883056640625,
+                            "Terrain": "Grasslands",
+                            "Area": 130.29458618164062,
+                            "ProjectedArea": 2312,
+                            "Population": 36299,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1834
+                        },
+                        {
+                            "HexCode": "8130CC",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 53966841.984375,
+                            "Coordinates": {
+                                "x": -140.80999755859375,
+                                "y": -52.939998626708984
+                            },
+                            "Position": {
+                                "x": 1337.6199951171875,
+                                "y": 1265.0799560546875
+                            },
+                            "Altitude": 528.3372802734375,
+                            "Terrain": "Grasslands",
+                            "Area": 172.78785705566406,
+                            "ProjectedArea": 3046,
+                            "Population": 48137,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2315
+                        },
+                        {
+                            "HexCode": "5715CE",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 565331827.9921875,
+                            "Coordinates": {
+                                "x": -144.24000549316406,
+                                "y": -52.33000183105469
+                            },
+                            "Position": {
+                                "x": 1220.550048828125,
+                                "y": 1285.81005859375
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 322.04693603515625,
+                            "ProjectedArea": 5599,
+                            "Population": 215487,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 8028
+                        },
+                        {
+                            "HexCode": "042137",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 5406567.1875,
+                            "Coordinates": {
+                                "x": -139.2899932861328,
+                                "y": -52.09000015258789
+                            },
+                            "Position": {
+                                "x": 1389.530029296875,
+                                "y": 1293.8299560546875
+                            },
+                            "Altitude": 620.549072265625,
+                            "Terrain": "Grasslands",
+                            "Area": 102.92758178710938,
+                            "ProjectedArea": 1780,
+                            "Population": 8325,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 873
+                        },
+                        {
+                            "HexCode": "04CFCD",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 288318261.578125,
+                            "Coordinates": {
+                                "x": -141.66000366210938,
+                                "y": -51.63999938964844
+                            },
+                            "Position": {
+                                "x": 1308.8199462890625,
+                                "y": 1309.25
+                            },
+                            "Altitude": 313.176513671875,
+                            "Terrain": "Grasslands",
+                            "Area": 164.243408203125,
+                            "ProjectedArea": 2812,
+                            "Population": 109898,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4271
+                        },
+                        {
+                            "HexCode": "589683",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 200383880.46875,
+                            "Coordinates": {
+                                "x": -140.0,
+                                "y": -51.04999923706055
+                            },
+                            "Position": {
+                                "x": 1365.47998046875,
+                                "y": 1329.3399658203125
+                            },
+                            "Altitude": 251.7020263671875,
+                            "Terrain": "Grasslands",
+                            "Area": 233.92674255371094,
+                            "ProjectedArea": 3954,
+                            "Population": 108076,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4379
+                        },
+                        {
+                            "HexCode": "725338",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 13464591.921875,
+                            "Coordinates": {
+                                "x": -137.69000244140625,
+                                "y": -50.59000015258789
+                            },
+                            "Position": {
+                                "x": 1444.22998046875,
+                                "y": 1345.3399658203125
+                            },
+                            "Altitude": 251.7020263671875,
+                            "Terrain": "Grasslands",
+                            "Area": 180.77157592773438,
+                            "ProjectedArea": 3025,
+                            "Population": 19051,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1403
+                        },
+                        {
+                            "HexCode": "AC3634",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 640866636.953125,
+                            "Coordinates": {
+                                "x": -142.16000366210938,
+                                "y": -50.58000183105469
+                            },
+                            "Position": {
+                                "x": 1291.6500244140625,
+                                "y": 1345.5699462890625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 130.05528259277344,
+                            "ProjectedArea": 2176,
+                            "Population": 141530,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5201
+                        },
+                        {
+                            "HexCode": "AC06CF",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 223937004.8125,
+                            "Coordinates": {
+                                "x": -138.86000061035156,
+                                "y": -49.880001068115234
+                            },
+                            "Position": {
+                                "x": 1404.3900146484375,
+                                "y": 1369.4300537109375
+                            },
+                            "Altitude": 128.7529296875,
+                            "Terrain": "Grasslands",
+                            "Area": 158.47940063476562,
+                            "ProjectedArea": 2613,
+                            "Population": 94388,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3760
+                        },
+                        {
+                            "HexCode": "829904",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 1159961689.453125,
+                            "Coordinates": {
+                                "x": -140.8800048828125,
+                                "y": -49.650001525878906
+                            },
+                            "Position": {
+                                "x": 1335.18994140625,
+                                "y": 1377.1800537109375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 151.79177856445312,
+                            "ProjectedArea": 2491,
+                            "Population": 196250,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 7004
+                        },
+                        {
+                            "HexCode": "33C944",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 52911878.0625,
+                            "Coordinates": {
+                                "x": -135.0500030517578,
+                                "y": -49.619998931884766
+                            },
+                            "Position": {
+                                "x": 1534.22998046875,
+                                "y": 1378.43994140625
+                            },
+                            "Altitude": 190.2275390625,
+                            "Terrain": "Grasslands",
+                            "Area": 169.4085235595703,
+                            "ProjectedArea": 2778,
+                            "Population": 47196,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2276
+                        },
+                        {
+                            "HexCode": "59B733",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 51606906.75,
+                            "Coordinates": {
+                                "x": -136.97000122070312,
+                                "y": -49.369998931884766
+                            },
+                            "Position": {
+                                "x": 1468.6099853515625,
+                                "y": 1386.780029296875
+                            },
+                            "Altitude": 251.7020263671875,
+                            "Terrain": "Grasslands",
+                            "Area": 165.23037719726562,
+                            "ProjectedArea": 2696,
+                            "Population": 46032,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2229
+                        },
+                        {
+                            "HexCode": "82B14F",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 977640168.359375,
+                            "Coordinates": {
+                                "x": -139.88999938964844,
+                                "y": -48.47999954223633
+                            },
+                            "Position": {
+                                "x": 1369.0899658203125,
+                                "y": 1417.1400146484375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 158.8384246826172,
+                            "ProjectedArea": 2546,
+                            "Population": 188425,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 7130
+                        },
+                        {
+                            "HexCode": "528FA3",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 58029416.328125,
+                            "Coordinates": {
+                                "x": -134.6999969482422,
+                                "y": -48.630001068115234
+                            },
+                            "Position": {
+                                "x": 1546.0999755859375,
+                                "y": 1411.97998046875
+                            },
+                            "Altitude": 128.7529296875,
+                            "Terrain": "Grasslands",
+                            "Area": 82.23291015625,
+                            "ProjectedArea": 1322,
+                            "Population": 34969,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1676
+                        },
+                        {
+                            "HexCode": "595D24",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 203158459.671875,
+                            "Coordinates": {
+                                "x": -136.27000427246094,
+                                "y": -48.09000015258789
+                            },
+                            "Position": {
+                                "x": 1492.68994140625,
+                                "y": 1430.449951171875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 209.53463745117188,
+                            "ProjectedArea": 3333,
+                            "Population": 101942,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4125
+                        },
+                        {
+                            "HexCode": "2E24B7",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 707450214.1875,
+                            "Coordinates": {
+                                "x": -138.38999938964844,
+                                "y": -48.2400016784668
+                            },
+                            "Position": {
+                                "x": 1420.199951171875,
+                                "y": 1425.4100341796875
+                            },
+                            "Altitude": 128.7529296875,
+                            "Terrain": "Grasslands",
+                            "Area": 215.32582092285156,
+                            "ProjectedArea": 3435,
+                            "Population": 196854,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 7176
+                        },
+                        {
+                            "HexCode": "B6813E",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 50081137.3046875,
+                            "Coordinates": {
+                                "x": -135.0399932861328,
+                                "y": -47.529998779296875
+                            },
+                            "Position": {
+                                "x": 1534.489990234375,
+                                "y": 1449.550048828125
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 58.46495056152344,
+                            "ProjectedArea": 920,
+                            "Population": 27011,
+                            "ProvinceParent": "531EF7",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1364
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "E67D42",
+                    "ContinentParent": "A69658",
+                    "Area": 1453.636962890625,
+                    "Population": 673632,
+                    "Tiles": [
+                        {
+                            "HexCode": "1E9665",
+                            "Culture": "AD0D2B",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 138044927.109375,
+                            "Coordinates": {
+                                "x": -160.0500030517578,
+                                "y": -52.08000183105469
+                            },
+                            "Position": {
+                                "x": 681.0399780273438,
+                                "y": 1294.3199462890625
+                            },
+                            "Altitude": 128.7529296875,
+                            "Terrain": "Grasslands",
+                            "Area": 195.623291015625,
+                            "ProjectedArea": 3382,
+                            "Population": 83187,
+                            "ProvinceParent": "E67D42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 6551
+                        },
+                        {
+                            "HexCode": "C7D3A2",
+                            "Culture": "AD0D2B",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 2
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 210337120.546875,
+                            "Coordinates": {
+                                "x": -161.7100067138672,
+                                "y": -51.36000061035156
+                            },
+                            "Position": {
+                                "x": 624.2899780273438,
+                                "y": 1319.0799560546875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 173.7429962158203,
+                            "ProjectedArea": 2956,
+                            "Population": 94962,
+                            "ProvinceParent": "E67D42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 9935
+                        },
+                        {
+                            "HexCode": "A9C356",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Rare Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 105530887.78125,
+                            "Coordinates": {
+                                "x": -157.77000427246094,
+                                "y": -50.9900016784668
+                            },
+                            "Position": {
+                                "x": 758.8800048828125,
+                                "y": 1331.530029296875
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 278.8616027832031,
+                            "ProjectedArea": 4707,
+                            "Population": 86802,
+                            "ProvinceParent": "E67D42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 9926
+                        },
+                        {
+                            "HexCode": "E299F0",
+                            "Culture": "E01137",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Rare Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 206412736.40625,
+                            "Coordinates": {
+                                "x": -159.94000244140625,
+                                "y": -50.45000076293945
+                            },
+                            "Position": {
+                                "x": 684.8699951171875,
+                                "y": 1349.8900146484375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 292.50653076171875,
+                            "ProjectedArea": 4881,
+                            "Population": 124386,
+                            "ProvinceParent": "E67D42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 11162
+                        },
+                        {
+                            "HexCode": "287D8D",
+                            "Culture": "AD0D2B",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 3
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 3
+                                },
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 225813664.671875,
+                            "Coordinates": {
+                                "x": -163.38999938964844,
+                                "y": -49.470001220703125
+                            },
+                            "Position": {
+                                "x": 566.9600219726562,
+                                "y": 1383.300048828125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 159.80772399902344,
+                            "ProjectedArea": 2613,
+                            "Population": 95179,
+                            "ProvinceParent": "E67D42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 16209
+                        },
+                        {
+                            "HexCode": "76D37F",
+                            "Culture": "AD0D2B",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 3
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 274860680.1875,
+                            "Coordinates": {
+                                "x": -161.74000549316406,
+                                "y": -49.41999816894531
+                            },
+                            "Position": {
+                                "x": 623.1300048828125,
+                                "y": 1385.1500244140625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 194.5171661376953,
+                            "ProjectedArea": 3177,
+                            "Population": 115852,
+                            "ProvinceParent": "E67D42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 13354
+                        },
+                        {
+                            "HexCode": "4CBAF0",
+                            "Culture": "AD0D2B",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 3
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 3
+                                }
+                            ],
+                            "GDP": 135838896.875,
+                            "Coordinates": {
+                                "x": -162.67999267578125,
+                                "y": -48.0
+                            },
+                            "Position": {
+                                "x": 591.1099853515625,
+                                "y": 1433.530029296875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 158.57757568359375,
+                            "ProjectedArea": 2518,
+                            "Population": 73264,
+                            "ProvinceParent": "E67D42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 11905
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "AC2D39",
+                    "ContinentParent": "A69658",
+                    "Area": 1243.6798095703125,
+                    "Population": 597470,
+                    "Tiles": [
+                        {
+                            "HexCode": "AC6698",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 120370091.875,
+                            "Coordinates": {
+                                "x": -131.07000732421875,
+                                "y": -51.810001373291016
+                            },
+                            "Position": {
+                                "x": 1670.010009765625,
+                                "y": 1303.6800537109375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 170.57470703125,
+                            "ProjectedArea": 2931,
+                            "Population": 72536,
+                            "ProvinceParent": "AC2D39",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3090
+                        },
+                        {
+                            "HexCode": "027237",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 84743566.015625,
+                            "Coordinates": {
+                                "x": -129.60000610351562,
+                                "y": -51.72999954223633
+                            },
+                            "Position": {
+                                "x": 1720.47998046875,
+                                "y": 1306.2900390625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 98.9293212890625,
+                            "ProjectedArea": 1697,
+                            "Population": 45706,
+                            "ProvinceParent": "AC2D39",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2060
+                        },
+                        {
+                            "HexCode": "56991A",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 170532845.3125,
+                            "Coordinates": {
+                                "x": -128.02000427246094,
+                                "y": -51.119998931884766
+                            },
+                            "Position": {
+                                "x": 1774.4000244140625,
+                                "y": 1326.9599609375
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 199.07933044433594,
+                            "ProjectedArea": 3370,
+                            "Population": 91976,
+                            "ProvinceParent": "AC2D39",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3781
+                        },
+                        {
+                            "HexCode": "82C345",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 44835004.71875,
+                            "Coordinates": {
+                                "x": -129.97999572753906,
+                                "y": -50.720001220703125
+                            },
+                            "Position": {
+                                "x": 1707.18994140625,
+                                "y": 1340.9100341796875
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 118.47500610351562,
+                            "ProjectedArea": 1988,
+                            "Population": 36878,
+                            "ProvinceParent": "AC2D39",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1824
+                        },
+                        {
+                            "HexCode": "046FA0",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 135985545.78125,
+                            "Coordinates": {
+                                "x": -128.6999969482422,
+                                "y": -49.81999969482422
+                            },
+                            "Position": {
+                                "x": 1751.0799560546875,
+                                "y": 1371.6400146484375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 192.70379638671875,
+                            "ProjectedArea": 3173,
+                            "Population": 81946,
+                            "ProvinceParent": "AC2D39",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3444
+                        },
+                        {
+                            "HexCode": "2C75B7",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 122094399.09375,
+                            "Coordinates": {
+                                "x": -126.83000183105469,
+                                "y": -49.959999084472656
+                            },
+                            "Position": {
+                                "x": 1814.97998046875,
+                                "y": 1366.719970703125
+                            },
+                            "Altitude": 128.7529296875,
+                            "Terrain": "Grasslands",
+                            "Area": 86.40687561035156,
+                            "ProjectedArea": 1427,
+                            "Population": 51462,
+                            "ProvinceParent": "AC2D39",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2214
+                        },
+                        {
+                            "HexCode": "836909",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 111322111.9140625,
+                            "Coordinates": {
+                                "x": -127.38999938964844,
+                                "y": -49.099998474121094
+                            },
+                            "Position": {
+                                "x": 1795.719970703125,
+                                "y": 1395.9200439453125
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 129.95799255371094,
+                            "ProjectedArea": 2109,
+                            "Population": 60041,
+                            "ProvinceParent": "AC2D39",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2593
+                        },
+                        {
+                            "HexCode": "2ED24E",
+                            "Culture": "BC0F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 167487740.546875,
+                            "Coordinates": {
+                                "x": -128.77999877929688,
+                                "y": -48.400001525878906
+                            },
+                            "Position": {
+                                "x": 1748.2099609375,
+                                "y": 1419.780029296875
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 118.5313720703125,
+                            "ProjectedArea": 1897,
+                            "Population": 70595,
+                            "ProvinceParent": "AC2D39",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2903
+                        },
+                        {
+                            "HexCode": "AC2D39",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 226487429.453125,
+                            "Coordinates": {
+                                "x": -127.41000366210938,
+                                "y": -48.0099983215332
+                            },
+                            "Position": {
+                                "x": 1795.1700439453125,
+                                "y": 1433.260009765625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 129.02134704589844,
+                            "ProjectedArea": 2049,
+                            "Population": 86330,
+                            "ProvinceParent": "AC2D39",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3432
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "56C9E2",
+                    "ContinentParent": "A69658",
+                    "Area": 1281.9822998046875,
+                    "Population": 593804,
+                    "Tiles": [
+                        {
+                            "HexCode": "AFFB27",
+                            "Culture": "C80F2E",
+                            "LocalResources": [],
+                            "GDP": 12692625.28125,
+                            "Coordinates": {
+                                "x": -125.58999633789062,
+                                "y": -52.599998474121094
+                            },
+                            "Position": {
+                                "x": 1857.06005859375,
+                                "y": 1276.6500244140625
+                            },
+                            "Altitude": -301.568603515625,
+                            "Terrain": "Shallows",
+                            "Area": 3.652172088623047,
+                            "ProjectedArea": 34,
+                            "Population": 3428,
+                            "ProvinceParent": "56C9E2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 118
+                        },
+                        {
+                            "HexCode": "865C2C",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 102943452.96875,
+                            "Coordinates": {
+                                "x": -124.5,
+                                "y": -51.560001373291016
+                            },
+                            "Position": {
+                                "x": 1894.530029296875,
+                                "y": 1312.1099853515625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 72.85301208496094,
+                            "ProjectedArea": 1245,
+                            "Population": 43390,
+                            "ProvinceParent": "56C9E2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1923
+                        },
+                        {
+                            "HexCode": "AA1BC5",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 148061134.375,
+                            "Coordinates": {
+                                "x": -124.33000183105469,
+                                "y": -50.400001525878906
+                            },
+                            "Position": {
+                                "x": 1900.1400146484375,
+                                "y": 1351.68994140625
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 172.84593200683594,
+                            "ProjectedArea": 2881,
+                            "Population": 79856,
+                            "ProvinceParent": "56C9E2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3330
+                        },
+                        {
+                            "HexCode": "809C9A",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 126903981.4453125,
+                            "Coordinates": {
+                                "x": -125.80000305175781,
+                                "y": -50.45000076293945
+                            },
+                            "Position": {
+                                "x": 1849.8599853515625,
+                                "y": 1349.9300537109375
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 148.14694213867188,
+                            "ProjectedArea": 2472,
+                            "Population": 68445,
+                            "ProvinceParent": "56C9E2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2905
+                        },
+                        {
+                            "HexCode": "56C9E2",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 86595813.4765625,
+                            "Coordinates": {
+                                "x": -121.69000244140625,
+                                "y": -49.599998474121094
+                            },
+                            "Position": {
+                                "x": 1990.3699951171875,
+                                "y": 1379.1400146484375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 101.09130859375,
+                            "ProjectedArea": 1657,
+                            "Population": 46705,
+                            "ProvinceParent": "56C9E2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2097
+                        },
+                        {
+                            "HexCode": "FF3B78",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 64245727.734375,
+                            "Coordinates": {
+                                "x": -123.19000244140625,
+                                "y": -49.68000030517578
+                            },
+                            "Position": {
+                                "x": 1939.050048828125,
+                                "y": 1376.1300048828125
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 91.04292297363281,
+                            "ProjectedArea": 1495,
+                            "Population": 38715,
+                            "ProvinceParent": "56C9E2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1817
+                        },
+                        {
+                            "HexCode": "023F28",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 290812121.875,
+                            "Coordinates": {
+                                "x": -125.0,
+                                "y": -48.619998931884766
+                            },
+                            "Position": {
+                                "x": 1877.4100341796875,
+                                "y": 1412.5899658203125
+                            },
+                            "Altitude": 159.490234375,
+                            "Terrain": "Grasslands",
+                            "Area": 339.4913024902344,
+                            "ProjectedArea": 5456,
+                            "Population": 156848,
+                            "ProvinceParent": "56C9E2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 6194
+                        },
+                        {
+                            "HexCode": "AA9F1B",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 148333687.3046875,
+                            "Coordinates": {
+                                "x": -120.86000061035156,
+                                "y": -48.5099983215332
+                            },
+                            "Position": {
+                                "x": 2018.5899658203125,
+                                "y": 1416.27001953125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 173.1636962890625,
+                            "ProjectedArea": 2777,
+                            "Population": 80003,
+                            "ProvinceParent": "56C9E2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3335
+                        },
+                        {
+                            "HexCode": "FF7F7F",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 126805451.09375,
+                            "Coordinates": {
+                                "x": -122.81999969482422,
+                                "y": -48.58000183105469
+                            },
+                            "Position": {
+                                "x": 1951.5999755859375,
+                                "y": 1413.68994140625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 179.6950225830078,
+                            "ProjectedArea": 2886,
+                            "Population": 76414,
+                            "ProvinceParent": "56C9E2",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3236
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "3DD166",
+                    "ContinentParent": "A69658",
+                    "Area": 1148.244384765625,
+                    "Population": 795131,
+                    "Tiles": [
+                        {
+                            "HexCode": "B1BD84",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 147986970.3125,
+                            "Coordinates": {
+                                "x": -131.3000030517578,
+                                "y": -50.13999938964844
+                            },
+                            "Position": {
+                                "x": 1662.4100341796875,
+                                "y": 1360.47998046875
+                            },
+                            "Altitude": 159.490234375,
+                            "Terrain": "Grasslands",
+                            "Area": 172.75961303710938,
+                            "ProjectedArea": 2864,
+                            "Population": 79816,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3328
+                        },
+                        {
+                            "HexCode": "586F1A",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 69692052.890625,
+                            "Coordinates": {
+                                "x": -133.32000732421875,
+                                "y": -50.11000061035156
+                            },
+                            "Position": {
+                                "x": 1593.3499755859375,
+                                "y": 1361.719970703125
+                            },
+                            "Altitude": 159.490234375,
+                            "Terrain": "Grasslands",
+                            "Area": 98.76087188720703,
+                            "ProjectedArea": 1636,
+                            "Population": 41997,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1941
+                        },
+                        {
+                            "HexCode": "572D4C",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 228056287.125,
+                            "Coordinates": {
+                                "x": -132.24000549316406,
+                                "y": -49.33000183105469
+                            },
+                            "Position": {
+                                "x": 1630.1800537109375,
+                                "y": 1388.18994140625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 129.91517639160156,
+                            "ProjectedArea": 2118,
+                            "Population": 86928,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3453
+                        },
+                        {
+                            "HexCode": "2CC662",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 324567269.0234375,
+                            "Coordinates": {
+                                "x": -130.35000610351562,
+                                "y": -48.810001373291016
+                            },
+                            "Position": {
+                                "x": 1694.8399658203125,
+                                "y": 1405.9000244140625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 184.89422607421875,
+                            "ProjectedArea": 2983,
+                            "Population": 123715,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4762
+                        },
+                        {
+                            "HexCode": "077291",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 105218695.453125,
+                            "Coordinates": {
+                                "x": -133.41000366210938,
+                                "y": -49.04999923706055
+                            },
+                            "Position": {
+                                "x": 1590.43994140625,
+                                "y": 1397.9000244140625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 74.46382141113281,
+                            "ProjectedArea": 1207,
+                            "Population": 44349,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1958
+                        },
+                        {
+                            "HexCode": "32D678",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 417047621.3984375,
+                            "Coordinates": {
+                                "x": -132.60000610351562,
+                                "y": -48.150001525878906
+                            },
+                            "Position": {
+                                "x": 1617.8399658203125,
+                                "y": 1428.6300048828125
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 107.51701354980469,
+                            "ProjectedArea": 1712,
+                            "Population": 106199,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4016
+                        },
+                        {
+                            "HexCode": "AB300C",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 198112172.234375,
+                            "Coordinates": {
+                                "x": -133.89999389648438,
+                                "y": -47.810001373291016
+                            },
+                            "Position": {
+                                "x": 1573.6300048828125,
+                                "y": 1440.0999755859375
+                            },
+                            "Altitude": 128.7529296875,
+                            "Terrain": "Grasslands",
+                            "Area": 140.2037353515625,
+                            "ProjectedArea": 2218,
+                            "Population": 83503,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3368
+                        },
+                        {
+                            "HexCode": "5615C4",
+                            "Culture": "BC0F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 559296757.359375,
+                            "Coordinates": {
+                                "x": -131.11000061035156,
+                                "y": -47.83000183105469
+                            },
+                            "Position": {
+                                "x": 1668.9300537109375,
+                                "y": 1439.3599853515625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 144.18997192382812,
+                            "ProjectedArea": 2282,
+                            "Population": 142422,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5263
+                        },
+                        {
+                            "HexCode": "2E272B",
+                            "Culture": "BC0F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 298592908.9375,
+                            "Coordinates": {
+                                "x": -129.49000549316406,
+                                "y": -47.27000045776367
+                            },
+                            "Position": {
+                                "x": 1723.9100341796875,
+                                "y": 1458.5799560546875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Shores",
+                            "Area": 90.88231658935547,
+                            "ProjectedArea": 1423,
+                            "Population": 83086,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3237
+                        },
+                        {
+                            "HexCode": "7048BC",
+                            "Culture": "BC0F2E",
+                            "LocalResources": [],
+                            "GDP": 8174850.34375,
+                            "Coordinates": {
+                                "x": -130.10000610351562,
+                                "y": -45.81999969482422
+                            },
+                            "Position": {
+                                "x": 1703.1199951171875,
+                                "y": 1508.1300048828125
+                            },
+                            "Altitude": -209.35687255859375,
+                            "Terrain": "Shallows",
+                            "Area": 4.6576361656188965,
+                            "ProjectedArea": 71,
+                            "Population": 3116,
+                            "ProvinceParent": "3DD166",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 111
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "1BD67D",
+                    "ContinentParent": "A69658",
+                    "Area": 1815.6048583984375,
+                    "Population": 1149823,
+                    "Tiles": [
+                        {
+                            "HexCode": "584E38",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 237880279.140625,
+                            "Coordinates": {
+                                "x": -126.18000030517578,
+                                "y": -47.11000061035156
+                            },
+                            "Position": {
+                                "x": 1837.219970703125,
+                                "y": 1464.030029296875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 168.3467559814453,
+                            "ProjectedArea": 2628,
+                            "Population": 100265,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3972
+                        },
+                        {
+                            "HexCode": "80CC63",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 121916448.2421875,
+                            "Coordinates": {
+                                "x": -121.9000015258789,
+                                "y": -47.2599983215332
+                            },
+                            "Position": {
+                                "x": 1983.18994140625,
+                                "y": 1458.9200439453125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 142.32443237304688,
+                            "ProjectedArea": 2228,
+                            "Population": 65755,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2805
+                        },
+                        {
+                            "HexCode": "2C54D5",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 130602279.84375,
+                            "Coordinates": {
+                                "x": -123.61000061035156,
+                                "y": -46.97999954223633
+                            },
+                            "Position": {
+                                "x": 1924.6500244140625,
+                                "y": 1468.5
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 185.07601928710938,
+                            "ProjectedArea": 2882,
+                            "Population": 78702,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3322
+                        },
+                        {
+                            "HexCode": "AA0CAC",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 76615184.765625,
+                            "Coordinates": {
+                                "x": -125.04000091552734,
+                                "y": -46.9900016784668
+                            },
+                            "Position": {
+                                "x": 1876.1199951171875,
+                                "y": 1468.199951171875
+                            },
+                            "Altitude": 220.9647216796875,
+                            "Terrain": "Grasslands",
+                            "Area": 89.4407958984375,
+                            "ProjectedArea": 1393,
+                            "Population": 41322,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1897
+                        },
+                        {
+                            "HexCode": "82811D",
+                            "Culture": "BC0F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 813160197.5546875,
+                            "Coordinates": {
+                                "x": -127.88999938964844,
+                                "y": -46.04999923706055
+                            },
+                            "Position": {
+                                "x": 1778.75,
+                                "y": 1500.31005859375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 209.6364288330078,
+                            "ProjectedArea": 3209,
+                            "Population": 207067,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 7489
+                        },
+                        {
+                            "HexCode": "31570D",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 126378971.640625,
+                            "Coordinates": {
+                                "x": -122.5999984741211,
+                                "y": -45.650001525878906
+                            },
+                            "Position": {
+                                "x": 1959.4200439453125,
+                                "y": 1513.780029296875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 179.09010314941406,
+                            "ProjectedArea": 2722,
+                            "Population": 76157,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3226
+                        },
+                        {
+                            "HexCode": "80092C",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 557972188.71875,
+                            "Coordinates": {
+                                "x": -126.05999755859375,
+                                "y": -45.630001068115234
+                            },
+                            "Position": {
+                                "x": 1841.030029296875,
+                                "y": 1514.510009765625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 202.32537841796875,
+                            "ProjectedArea": 3074,
+                            "Population": 170092,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 6288
+                        },
+                        {
+                            "HexCode": "AC1552",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 194745557.6171875,
+                            "Coordinates": {
+                                "x": -124.31999969482422,
+                                "y": -45.45000076293945
+                            },
+                            "Position": {
+                                "x": 1900.68994140625,
+                                "y": 1520.7099609375
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 227.3443603515625,
+                            "ProjectedArea": 3443,
+                            "Population": 105035,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4266
+                        },
+                        {
+                            "HexCode": "AC6C20",
+                            "Culture": "BC0F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 362029804.1328125,
+                            "Coordinates": {
+                                "x": -128.10000610351562,
+                                "y": -44.939998626708984
+                            },
+                            "Position": {
+                                "x": 1771.6400146484375,
+                                "y": 1537.9000244140625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 93.33336639404297,
+                            "ProjectedArea": 1401,
+                            "Population": 92189,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3894
+                        },
+                        {
+                            "HexCode": "567838",
+                            "Culture": "BC0F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 559434182.4296875,
+                            "Coordinates": {
+                                "x": -125.75,
+                                "y": -44.04999923706055
+                            },
+                            "Position": {
+                                "x": 1851.6199951171875,
+                                "y": 1568.4300537109375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 318.687255859375,
+                            "ProjectedArea": 4711,
+                            "Population": 213239,
+                            "ProvinceParent": "1BD67D",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 8308
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "E39DAB",
+                    "ContinentParent": "A69658",
+                    "Area": 96.25466918945312,
+                    "Population": 76341,
+                    "Tiles": [
+                        {
+                            "HexCode": "5BE0C2",
+                            "Culture": "C80F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 169558193.15625,
+                            "Coordinates": {
+                                "x": -141.58999633789062,
+                                "y": -47.27000045776367
+                            },
+                            "Position": {
+                                "x": 1310.989990234375,
+                                "y": 1458.6600341796875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 51.608585357666016,
+                            "ProjectedArea": 808,
+                            "Population": 47181,
+                            "ProvinceParent": "E39DAB",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2353
+                        },
+                        {
+                            "HexCode": "2EC84D",
+                            "Culture": "AA0D20",
+                            "LocalResources": [],
+                            "GDP": 6277676.34375,
+                            "Coordinates": {
+                                "x": -138.05999755859375,
+                                "y": -44.599998474121094
+                            },
+                            "Position": {
+                                "x": 1431.5,
+                                "y": 1549.5
+                            },
+                            "Altitude": -301.568603515625,
+                            "Terrain": "Shallows",
+                            "Area": 4.44321870803833,
+                            "ProjectedArea": 30,
+                            "Population": 2646,
+                            "ProvinceParent": "E39DAB",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 95
+                        },
+                        {
+                            "HexCode": "11AA03",
+                            "Culture": "C80F2E",
+                            "LocalResources": [],
+                            "GDP": 14017402.2421875,
+                            "Coordinates": {
+                                "x": -142.27000427246094,
+                                "y": -45.939998626708984
+                            },
+                            "Position": {
+                                "x": 1287.72998046875,
+                                "y": 1503.93994140625
+                            },
+                            "Altitude": -301.568603515625,
+                            "Terrain": "Shallows",
+                            "Area": 7.985593318939209,
+                            "ProjectedArea": 122,
+                            "Population": 5343,
+                            "ProvinceParent": "E39DAB",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 190
+                        },
+                        {
+                            "HexCode": "653B61",
+                            "Culture": "AA0D20",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 7397503.71875,
+                            "Coordinates": {
+                                "x": -137.1999969482422,
+                                "y": -44.5099983215332
+                            },
+                            "Position": {
+                                "x": 1460.8699951171875,
+                                "y": 1552.719970703125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Shores",
+                            "Area": 5.235523700714111,
+                            "ProjectedArea": 78,
+                            "Population": 3118,
+                            "ProvinceParent": "E39DAB",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 832
+                        },
+                        {
+                            "HexCode": "82699F",
+                            "Culture": "BC0F2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 47362186.5390625,
+                            "Coordinates": {
+                                "x": -129.75,
+                                "y": -43.77000045776367
+                            },
+                            "Position": {
+                                "x": 1715.06005859375,
+                                "y": 1577.8499755859375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 26.981746673583984,
+                            "ProjectedArea": 397,
+                            "Population": 18053,
+                            "ProvinceParent": "E39DAB",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1362
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "5E5AB8",
+                    "ContinentParent": "A69658",
+                    "Area": 249.22621154785156,
+                    "Population": 109174,
+                    "Tiles": [
+                        {
+                            "HexCode": "1C7391",
+                            "Culture": "AA0D3A",
+                            "LocalResources": [],
+                            "GDP": 4863308.3984375,
+                            "Coordinates": {
+                                "x": -168.07000732421875,
+                                "y": -46.709999084472656
+                            },
+                            "Position": {
+                                "x": 407.3599853515625,
+                                "y": 1477.530029296875
+                            },
+                            "Altitude": -301.568603515625,
+                            "Terrain": "Shallows",
+                            "Area": 5.679204940795898,
+                            "ProjectedArea": 88,
+                            "Population": 2623,
+                            "ProvinceParent": "5E5AB8",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 97
+                        },
+                        {
+                            "HexCode": "32E178",
+                            "Culture": "AA0D3A",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                },
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 69565890.625,
+                            "Coordinates": {
+                                "x": -171.39999389648438,
+                                "y": -46.0099983215332
+                            },
+                            "Position": {
+                                "x": 293.5,
+                                "y": 1501.5
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Shores",
+                            "Area": 81.21158599853516,
+                            "ProjectedArea": 1228,
+                            "Population": 37520,
+                            "ProvinceParent": "5E5AB8",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 8415
+                        },
+                        {
+                            "HexCode": "31A00A",
+                            "Culture": "AA0D3A",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Common Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 92569273.671875,
+                            "Coordinates": {
+                                "x": -172.0,
+                                "y": -44.16999816894531
+                            },
+                            "Position": {
+                                "x": 273.0400085449219,
+                                "y": 1564.3900146484375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 131.17897033691406,
+                            "ProjectedArea": 1943,
+                            "Population": 55783,
+                            "ProvinceParent": "5E5AB8",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5519
+                        },
+                        {
+                            "HexCode": "6900E8",
+                            "Culture": "B70E3E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                },
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 8829950.078125,
+                            "Coordinates": {
+                                "x": -176.88999938964844,
+                                "y": -44.380001068115234
+                            },
+                            "Position": {
+                                "x": 106.01000213623047,
+                                "y": 1557.219970703125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Shores",
+                            "Area": 12.512889862060547,
+                            "ProjectedArea": 186,
+                            "Population": 5321,
+                            "ProvinceParent": "5E5AB8",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2720
+                        },
+                        {
+                            "HexCode": "32D671",
+                            "Culture": "B70E3E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                },
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 10882693.59375,
+                            "Coordinates": {
+                                "x": -175.8699951171875,
+                                "y": -44.04999923706055
+                            },
+                            "Position": {
+                                "x": 140.88999938964844,
+                                "y": 1568.2900390625
+                            },
+                            "Altitude": 5.803955078125,
+                            "Terrain": "Grasslands",
+                            "Area": 15.42306137084961,
+                            "ProjectedArea": 228,
+                            "Population": 6558,
+                            "ProvinceParent": "5E5AB8",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2766
+                        },
+                        {
+                            "HexCode": "B265C3",
+                            "Culture": "B70E3E",
+                            "LocalResources": [],
+                            "GDP": 1304330.15625,
+                            "Coordinates": {
+                                "x": -176.6999969482422,
+                                "y": -43.31999969482422
+                            },
+                            "Position": {
+                                "x": 112.72000122070312,
+                                "y": 1593.239990234375
+                            },
+                            "Altitude": -209.35687255859375,
+                            "Terrain": "Shallows",
+                            "Area": 1.8488203287124634,
+                            "ProjectedArea": 27,
+                            "Population": 786,
+                            "ProvinceParent": "5E5AB8",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 29
+                        },
+                        {
+                            "HexCode": "21705D",
+                            "Culture": "B70E3E",
+                            "LocalResources": [],
+                            "GDP": 967461.171875,
+                            "Coordinates": {
+                                "x": -177.02000427246094,
+                                "y": -43.22999954223633
+                            },
+                            "Position": {
+                                "x": 101.55000305175781,
+                                "y": 1596.550048828125
+                            },
+                            "Altitude": -147.88232421875,
+                            "Terrain": "Shallows",
+                            "Area": 1.3716801404953003,
+                            "ProjectedArea": 20,
+                            "Population": 583,
+                            "ProvinceParent": "5E5AB8",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 21
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "57EE42",
+                    "ContinentParent": "A69658",
+                    "Area": 2474.69384765625,
+                    "Population": 3810911,
+                    "Tiles": [
+                        {
+                            "HexCode": "839690",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 43612176.953125,
+                            "Coordinates": {
+                                "x": -118.08000183105469,
+                                "y": -47.18000030517578
+                            },
+                            "Position": {
+                                "x": 2113.5,
+                                "y": 1461.5
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Shores",
+                            "Area": 50.91267013549805,
+                            "ProjectedArea": 789,
+                            "Population": 23522,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 1235
+                        },
+                        {
+                            "HexCode": "050F41",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 178342321.09375,
+                            "Coordinates": {
+                                "x": -118.75,
+                                "y": -46.2400016784668
+                            },
+                            "Position": {
+                                "x": 2090.7099609375,
+                                "y": 1493.77001953125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 208.19517517089844,
+                            "ProjectedArea": 3198,
+                            "Population": 96188,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 3937
+                        },
+                        {
+                            "HexCode": "596001",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 214209915.8203125,
+                            "Coordinates": {
+                                "x": -116.41999816894531,
+                                "y": -45.61000061035156
+                            },
+                            "Position": {
+                                "x": 2170.159912109375,
+                                "y": 1515.1800537109375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 250.06747436523438,
+                            "ProjectedArea": 3798,
+                            "Population": 115533,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4657
+                        },
+                        {
+                            "HexCode": "5C45BA",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 164631231.734375,
+                            "Coordinates": {
+                                "x": -118.77999877929688,
+                                "y": -44.95000076293945
+                            },
+                            "Position": {
+                                "x": 2089.739990234375,
+                                "y": 1537.77001953125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 116.50904083251953,
+                            "ProjectedArea": 1749,
+                            "Population": 69391,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2860
+                        },
+                        {
+                            "HexCode": "5927A1",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 141637892.109375,
+                            "Coordinates": {
+                                "x": -117.5,
+                                "y": -44.61000061035156
+                            },
+                            "Position": {
+                                "x": 2133.2900390625,
+                                "y": 1549.3900146484375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 116.9971694946289,
+                            "ProjectedArea": 1746,
+                            "Population": 63946,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2687
+                        },
+                        {
+                            "HexCode": "822AB8",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Rare Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 207206024.625,
+                            "Coordinates": {
+                                "x": -116.22000122070312,
+                                "y": -44.20000076293945
+                            },
+                            "Position": {
+                                "x": 2177.010009765625,
+                                "y": 1563.469970703125
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 146.63858032226562,
+                            "ProjectedArea": 2173,
+                            "Population": 87336,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 8906
+                        },
+                        {
+                            "HexCode": "2C2DB4",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 449075563.5,
+                            "Coordinates": {
+                                "x": -121.8499984741211,
+                                "y": -43.54999923706055
+                            },
+                            "Position": {
+                                "x": 1984.8800048828125,
+                                "y": 1585.5799560546875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 162.8387908935547,
+                            "ProjectedArea": 2387,
+                            "Population": 136896,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5131
+                        },
+                        {
+                            "HexCode": "059C91",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 305113958.59375,
+                            "Coordinates": {
+                                "x": -120.31999969482422,
+                                "y": -43.900001525878906
+                            },
+                            "Position": {
+                                "x": 2037.219970703125,
+                                "y": 1573.4300537109375
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 173.81117248535156,
+                            "ProjectedArea": 2563,
+                            "Population": 116300,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 4498
+                        },
+                        {
+                            "HexCode": "2E398A",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Rare Ore",
+                                    "Yield": 1
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 504093908.6328125,
+                            "Coordinates": {
+                                "x": -118.8499984741211,
+                                "y": -43.34000015258789
+                            },
+                            "Position": {
+                                "x": 2087.219970703125,
+                                "y": 1592.6800537109375
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 287.1622314453125,
+                            "ProjectedArea": 4195,
+                            "Population": 192145,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 12597
+                        },
+                        {
+                            "HexCode": "AD66CF",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Rare Ore",
+                                    "Yield": 2
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 289155086.828125,
+                            "Coordinates": {
+                                "x": -116.81999969482422,
+                                "y": -42.72999954223633
+                            },
+                            "Position": {
+                                "x": 2156.590087890625,
+                                "y": 1613.3699951171875
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 204.6341094970703,
+                            "ProjectedArea": 2960,
+                            "Population": 121877,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 15551
+                        },
+                        {
+                            "HexCode": "2F9F12",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 660645521.078125,
+                            "Coordinates": {
+                                "x": -121.1500015258789,
+                                "y": -42.630001068115234
+                            },
+                            "Position": {
+                                "x": 2008.699951171875,
+                                "y": 1616.9100341796875
+                            },
+                            "Altitude": 98.0157470703125,
+                            "Terrain": "Grasslands",
+                            "Area": 134.06919860839844,
+                            "ProjectedArea": 1936,
+                            "Population": 145898,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 5350
+                        },
+                        {
+                            "HexCode": "5981B0",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Rare Ore",
+                                    "Yield": 2
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 1
+                                }
+                            ],
+                            "GDP": 251588674.421875,
+                            "Coordinates": {
+                                "x": -118.13999938964844,
+                                "y": -41.959999084472656
+                            },
+                            "Position": {
+                                "x": 2111.60009765625,
+                                "y": 1639.6800537109375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 178.04786682128906,
+                            "ProjectedArea": 2544,
+                            "Population": 106043,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 14980
+                        },
+                        {
+                            "HexCode": "91BBDC",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [],
+                            "GDP": 2457926.1875,
+                            "Coordinates": {
+                                "x": -114.75,
+                                "y": -42.279998779296875
+                            },
+                            "Position": {
+                                "x": 2227.10009765625,
+                                "y": 1628.8199462890625
+                            },
+                            "Altitude": -270.83135986328125,
+                            "Terrain": "Shallows",
+                            "Area": 1.7409573793411255,
+                            "ProjectedArea": 25,
+                            "Population": 1036,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 37
+                        },
+                        {
+                            "HexCode": "2F12C1",
+                            "Culture": "BA0E2E",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Rare Ore",
+                                    "Yield": 2
+                                },
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                },
+                                {
+                                    "Resource": "Hydrates",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 574516728.84375,
+                            "Coordinates": {
+                                "x": -119.58999633789062,
+                                "y": -40.939998626708984
+                            },
+                            "Position": {
+                                "x": 2061.889892578125,
+                                "y": 1674.6500244140625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 327.2788391113281,
+                            "ProjectedArea": 4603,
+                            "Population": 218988,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 22913
+                        },
+                        {
+                            "HexCode": "AD9911",
+                            "Culture": "000000",
+                            "LocalResources": [],
+                            "GDP": 185264960000.0,
+                            "Coordinates": {
+                                "x": -117.41000366210938,
+                                "y": -40.709999084472656
+                            },
+                            "Position": {
+                                "x": 2136.239990234375,
+                                "y": 1682.3499755859375
+                            },
+                            "Altitude": -55.6705322265625,
+                            "Terrain": "Freshwater",
+                            "Area": 115.79060363769531,
+                            "ProjectedArea": 1623,
+                            "Population": 2315812,
+                            "ProvinceParent": "57EE42",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 74383
+                        }
+                    ]
+                },
+                {
+                    "HexCode": "3D98CD",
+                    "ContinentParent": "A69658",
+                    "Area": 89.44215393066406,
+                    "Population": 38046,
+                    "Tiles": [
+                        {
+                            "HexCode": "EC0082",
+                            "Culture": "E01137",
+                            "LocalResources": [],
+                            "GDP": 400387.75,
+                            "Coordinates": {
+                                "x": -119.16999816894531,
+                                "y": -28.079999923706055
+                            },
+                            "Position": {
+                                "x": 2076.5,
+                                "y": 2113.5
+                            },
+                            "Altitude": -332.30584716796875,
+                            "Terrain": "Shallows",
+                            "Area": 0.4986250102519989,
+                            "ProjectedArea": 6,
+                            "Population": 224,
+                            "ProvinceParent": "3D98CD",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 8
+                        },
+                        {
+                            "HexCode": "879479",
+                            "Culture": "005FA3",
+                            "LocalResources": [
+                                {
+                                    "Resource": "Food",
+                                    "Yield": 2
+                                }
+                            ],
+                            "GDP": 62763836.09375,
+                            "Coordinates": {
+                                "x": -124.30000305175781,
+                                "y": -21.549999237060547
+                            },
+                            "Position": {
+                                "x": 1901.31005859375,
+                                "y": 2336.43994140625
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Grasslands",
+                            "Area": 88.94352722167969,
+                            "ProjectedArea": 1016,
+                            "Population": 37822,
+                            "ProvinceParent": "3D98CD",
+                            "ContinentParent": "A69658",
+                            "ClaimValue": 2143
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

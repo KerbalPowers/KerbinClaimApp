@@ -1,0 +1,38 @@
+{
+  "_help": "The shape of the map images. Edit here; the site and the tools in tools/ all read this file.",
+
+  "mapsRoot": "C:/Users/Spartwo/Dropbox/Maeps",
+  "_mapsRoot": "Folder holding the .pdn files and Layers/ (used by tools/generate_config.py; --maps overrides). Forward slashes. A relative path is relative to this file.",
+
+  "width": 13900,
+  "height": 6000,
+  "loopWidth": 12288,
+  "meridianX": 2111,
+  "equatorY": 3000,
+  "equatorKmPerPixel": 0.306796143,
+
+  "_notes": [
+    "width/height   size in pixels of EVERY layer image (base map, Tiles, overlays).",
+    "loopWidth      pixels in one full turn of longitude (360 degrees). The map repeats after this many pixels; width - loopWidth is the overlap strip that is built in so the picture can loop. tools/extract_cities.py measures this from Cities.png and warns if it disagrees.",
+    "meridianX      pixel column of 0 degrees longitude (counted from the left).",
+    "equatorY       pixel row of 0 degrees latitude (counted from the TOP). 3000 = the middle of 6000, i.e. the poles were trimmed equally top and bottom.",
+    "equatorKmPerPixel  THE scale setting: kilometres covered by one pixel along the equator (and along any meridian). Circumference = equatorKmPerPixel x loopWidth, radius = that / 2pi. Tile areas are computed from it; the overlap strip (width - loopWidth) is folded away first, so it never adds area. Default 3769.911 km / 12288 px (Kerbin radius 600 km); change this one number to rescale every area.",
+    "One degree is loopWidth/360 pixels in both directions (equirectangular)."
+  ],
+
+  "flatMap": {
+    "_help": "The flat (base) map is its own picture: the original 12288 wide one, whose LEFT EDGE is the 180 degree line. Its size is read from the file, so only the start is set here. equatorY = the picture row of 0 degrees latitude; leave null if the equator is in the middle of the picture. Remove this whole block to treat the flat map like the other layers (same frame as width x height).",
+    "leftLongitude": -180,
+    "equatorY": null,
+    "offsetX": -7,
+    "_offsetX": "Nudge the flat map sideways by this many pixels (negative = left) if it sits off from the other layers."
+  },
+
+  "tileFrame": {
+    "_help": "The frame the positions inside config/tiles/*.json are in: the OLD 12288x6144 map, with y counted from the BOTTOM (so equatorY here is measured up from the bottom). They are converted to the new frame through latitude/longitude, so they do not need regenerating.",
+    "width": 12288,
+    "height": 6144,
+    "meridianX": 6144,
+    "equatorY": 3072
+  }
+}
