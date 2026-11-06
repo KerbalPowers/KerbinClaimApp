@@ -8563,9 +8563,31 @@
                 {
                     "HexCode": "E7C53D",
                     "ContinentParent": "215E8A",
-                    "Area": 72.28964233398438,
-                    "Population": 45380,
+                    "Area": 78.76197814941406,
+                    "Population": 48290,
                     "Tiles": [
+                        {
+                            "HexCode": "3D87AF",
+                            "Culture": "BFA26D",
+                            "LocalResources": [],
+                            "GDP": 5201465.859375,
+                            "Coordinates": {
+                                "x": -127.79000091552734,
+                                "y": -4.739999771118164
+                            },
+                            "Position": {
+                                "x": 1781.949951171875,
+                                "y": 2910.239990234375
+                            },
+                            "Altitude": 67.2784423828125,
+                            "Terrain": "Shores",
+                            "Area": 6.4723381996154785,
+                            "ProjectedArea": 69,
+                            "Population": 2910,
+                            "ProvinceParent": "E7C53D",
+                            "ContinentParent": "215E8A",
+                            "ClaimValue": 108
+                        },
                         {
                             "HexCode": "3D43B2",
                             "Culture": "BFA26D",
